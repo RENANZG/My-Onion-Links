@@ -5,7 +5,7 @@ My Onion Bookmarks - http://7fc532c5lvbky6lxlt3gxnbj67gqmpzym2rowtekllgypyprbjxf
 Dread - http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion  
 Def Con Forum - http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion  
 
--COMUNICATION
+-COMUNICATION  
 Reddit - https://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion  
 Facebook - https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion  
 DNMX - http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion  
