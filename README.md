@@ -17,16 +17,16 @@ Onion Mail - http://pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.oni
 Ahmia.fi - http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion  
 Brave - https://brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion  
 Devil Engine - http://rinnegan7hmaturk54vy53xx7kmy6alo2vcvhs7ao3hxirubq7myibid.onion  
-http://ftcdq4dmrivt5v6ogn7nes2htw52eq5eooutqmvvggwid3dlg4hr32qd.onion  
+Devil Engine - http://ftcdq4dmrivt5v6ogn7nes2htw52eq5eooutqmvvggwid3dlg4hr32qd.onion  
 Devil Search - http://search65pq2x5oh4o4qlxk2zvoa5zhbfi6mx4br4oc33rpxuayauwsqd.onion   
-http://freewzvfroedixqklf6iqpwckoxsqah57qoqzfhrw6kaw2hjjbcf42id.onion  
-http://searchbzgixuy524pl2wcsy4ozl5vzh4mjibbuft5f5irajlz5vw5jad.onion  
+Devil Search - http://freewzvfroedixqklf6iqpwckoxsqah57qoqzfhrw6kaw2hjjbcf42id.onion  
+Devil Search - http://searchbzgixuy524pl2wcsy4ozl5vzh4mjibbuft5f5irajlz5vw5jad.onion  
 Dig Deeper - http://digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion  
-http://uvgbd5mgizntrfghf2c77e2gp3ps3tzonmizfs4uva6cbeuxhkszedid.onion  
-http://us63bgjkxwpyrpvsqom6kw3jcy2yujbplkhtzt64yykt42ne2ms7p4yd.onion  
-http://mijpbiurmidlyzn4n54qfsmkrsgoggbgrwarcwn2sd3x6mrqqf7qleid.onion  
+Dig Deeper - http://uvgbd5mgizntrfghf2c77e2gp3ps3tzonmizfs4uva6cbeuxhkszedid.onion  
+Dig Deeper - http://us63bgjkxwpyrpvsqom6kw3jcy2yujbplkhtzt64yykt42ne2ms7p4yd.onion  
+Dig Deeper - http://mijpbiurmidlyzn4n54qfsmkrsgoggbgrwarcwn2sd3x6mrqqf7qleid.onion  
 DuckDuckGo - https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion  
-haystak search engine - http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion  
+Haystak - http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion  
 Metager.org - http://metagerv65pwclop2rsfzg4jwowpavpwd6grhhlvdgsswvo6ii4akgyd.onion/en  
 NotEvil Dark Web - http://notevilmtxf25uw7tskqxj6njlpebyrmlrerfv5hc4tuq7c7hilbyiqd.onion  
 OnionLand Search - http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion  
