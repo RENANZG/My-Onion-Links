@@ -43,6 +43,7 @@ Privacy Guides - http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5
 Dark.fail's PGP Tool - http://www.darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion  
 Surveillance Self-Defense - https://y7yea4pmqqtznb33qiugvysyn2bob5v62e4pvoadoibrwkq3tsddjeyd.onion  
 The Hitchhiker’s Guide to Online Anonymity - http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion  
+Security in a box - http://lxjacvxrozjlxd7pqced7dyefnbityrwqjosuuaqponlg3v7esifrzad.onion  
 Debian - http://5ekxbftvqg26oir5wle3p27ax3wksbxcecnm6oemju7bjra2pn26s3qd.onion  
 Hardened BSD - http://lkiw4tmbudbr43hbyhm636sarn73vuow77czzohdbqdpjuq3vdzvenyd.onion  
 Qubes OS - http://qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion  
@@ -79,7 +80,7 @@ https://github.com/5ky1ar/Awesome-Onion-Links
 https://github.com/OnionLinker/onion-links  
 https://github.com/gt0day/DarkWeb  
 https://github.com/praveenjalasutram/Darkweb-Onion-Links  
-
+https://securityinabox.org
 https://dark.fail/  
 https://raddle.me/wiki/onion_index  
 https://www.cryptoparty.in  
