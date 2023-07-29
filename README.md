@@ -2,6 +2,7 @@
 
 -GENERAL  
 My Onion Bookmarks - http://7fc532c5lvbky6lxlt3gxnbj67gqmpzym2rowtekllgypyprbjxfiiad.onion  
+Simple Bookmarks - http://afajj7x4zfl2d3fc2u7uzxp4iwf4r2kucr5on24xk2hwrssoj7yivhid.onion  
 Dread - http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion  
 Invidious YouTube -  http://kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion  
 
@@ -39,6 +40,7 @@ Torch Search Engine - http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c
 -SECURITY  
 Electronic Frontier Foundation - https://www.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion  
 Privacy Guides - http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion  
+Dark.fail's PGP Tool - http://www.darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion  
 Surveillance Self-Defense - https://y7yea4pmqqtznb33qiugvysyn2bob5v62e4pvoadoibrwkq3tsddjeyd.onion  
 The Hitchhiker’s Guide to Online Anonymity - http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion  
 Debian - http://5ekxbftvqg26oir5wle3p27ax3wksbxcecnm6oemju7bjra2pn26s3qd.onion  
@@ -52,6 +54,8 @@ Def Con Forum - http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.
 BitCoin wallet - http://wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion  
 Hidden Wallet - http://d46a7ehxj6d6f2cf4hi3b424uzywno24c7qtnvdvwsah5qpogewoeqid.onion  
 OnionWallet - http://p2qzxkca42e3wccvqgby7jrcbzlf6g7pnkvybnau4szl5ykdydzmvbid.onion  
+LocalMonero.co - http://nehdddktmhvqklsnkjqcbpmb63htee2iznpcbs5tgzctipxykpj6yrid.onion  
+Cryptostorm VPN - http://stormwayszuh4juycoy4kwoww5gvcu2c4tdtpkup667pdwe4qenzwayd.onion  
 
 -LIBRARIES  
 Z-Library - http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion  
@@ -65,10 +69,17 @@ Just Another Library - http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555lit
 GenoType.INC - http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion    
 
 -DOWNLOADS    
+Archive.is - http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion  
 Demonoid - http://demonoidevmsgasmojajlhikwetsr4pxzw6xkjt3dgdv6nr5yxvsamid.onion  
 The Pirate Bay - http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion  
 Torrent Galaxy - http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion  
 
 # CLEAR NET LINKS
+https://github.com/5ky1ar/Awesome-Onion-Links  
+https://github.com/OnionLinker/onion-links  
+https://github.com/gt0day/DarkWeb  
+https://github.com/praveenjalasutram/Darkweb-Onion-Links  
+
+https://dark.fail/  
 https://raddle.me/wiki/onion_index  
 https://www.cryptoparty.in  
