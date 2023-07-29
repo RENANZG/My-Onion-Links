@@ -70,5 +70,5 @@ The Pirate Bay - http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid
 Torrent Galaxy - http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion  
 
 # CLEAR NET LINKS
-https://raddle.me/wiki/onion_index
-https://www.cryptoparty.in
+https://raddle.me/wiki/onion_index  
+https://www.cryptoparty.in  
