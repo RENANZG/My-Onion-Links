@@ -66,7 +66,6 @@ Comic Book Library - http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsig
 Just Another Library - http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion  
 Bible4u - http://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion    
 Imperial Library - http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion    
-Just Another Library - http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion    
 GenoType.INC - http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion    
 
 -DOWNLOADS    
