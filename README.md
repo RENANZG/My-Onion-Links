@@ -79,7 +79,7 @@ https://github.com/5ky1ar/Awesome-Onion-Links
 https://github.com/OnionLinker/onion-links  
 https://github.com/gt0day/DarkWeb  
 https://github.com/praveenjalasutram/Darkweb-Onion-Links  
-https://securityinabox.org
+https://securityinabox.org  
 https://dark.fail/  
 https://raddle.me/wiki/onion_index  
 https://www.cryptoparty.in  
