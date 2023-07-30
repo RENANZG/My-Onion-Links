@@ -41,6 +41,8 @@ Torch Search Engine - http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c
 Electronic Frontier Foundation - https://www.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion  
 Privacy Guides - http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion  
 Dark.fail's PGP Tool - http://www.darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion  
+XMRGuide – http://xmrguide25ibknxgaray5rqksrclddxqku3ggdcnzg4ogdi5qkdkd2yd.onion  
+DNM Bible – http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion
 Surveillance Self-Defense - https://y7yea4pmqqtznb33qiugvysyn2bob5v62e4pvoadoibrwkq3tsddjeyd.onion  
 The Hitchhiker’s Guide to Online Anonymity - http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion  
 Security in a box - http://lxjacvxrozjlxd7pqced7dyefnbityrwqjosuuaqponlg3v7esifrzad.onion  
@@ -50,13 +52,13 @@ Qubes OS - http://qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion
 Whonix OS - http://www.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion  
 Tor Guide - http://guideeedvgbpkthetphncab5aqj7dp5t74y7vxsoonnvmaeamq74vuqd.onion    
 Def Con Forum - http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion  
+Cryptostorm VPN - http://stormwayszuh4juycoy4kwoww5gvcu2c4tdtpkup667pdwe4qenzwayd.onion  
 
 -CRYPTOCURRENCY  
 BitCoin wallet - http://wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion  
 Hidden Wallet - http://d46a7ehxj6d6f2cf4hi3b424uzywno24c7qtnvdvwsah5qpogewoeqid.onion  
 OnionWallet - http://p2qzxkca42e3wccvqgby7jrcbzlf6g7pnkvybnau4szl5ykdydzmvbid.onion  
 LocalMonero.co - http://nehdddktmhvqklsnkjqcbpmb63htee2iznpcbs5tgzctipxykpj6yrid.onion  
-Cryptostorm VPN - http://stormwayszuh4juycoy4kwoww5gvcu2c4tdtpkup667pdwe4qenzwayd.onion  
 
 -LIBRARIES  
 Z-Library - http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion  
@@ -68,13 +70,19 @@ Bible4u - http://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion
 Imperial Library - http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion    
 GenoType.INC - http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion    
 
--DOWNLOADS    
+-NEWS AND BLOGS  
+Tor Times - http://tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion  
+NCIDE Task Force -   http://ncidetfs7banpz2d7vpndev5somwoki5vwdpfty2k7javniujekit6ad.onion  
+National Police of the Netherlands - http://tcecdnp2fhyxlcrjoyc2eimdjosr65hweut6y7r2u6b5y75yuvbkvfyd.onion  
+
+-DOWNLOADS  
 Archive.is - http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion  
 Demonoid - http://demonoidevmsgasmojajlhikwetsr4pxzw6xkjt3dgdv6nr5yxvsamid.onion  
 The Pirate Bay - http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion  
 Torrent Galaxy - http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion  
 
-# CLEAR NET LINKS
+# CLEAR NET LINKS  
+http://gen.lib.rus.ec/  
 https://github.com/5ky1ar/Awesome-Onion-Links  
 https://github.com/OnionLinker/onion-links  
 https://github.com/gt0day/DarkWeb  
