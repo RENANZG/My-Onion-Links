@@ -42,8 +42,8 @@ Electronic Frontier Foundation - https://www.iykpqm7jiradoeezzkhj7c4b33g4hbgfwel
 Privacy Guides - http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion  
 Dark.fail's PGP Tool - http://www.darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion  
 XMRGuide – http://xmrguide25ibknxgaray5rqksrclddxqku3ggdcnzg4ogdi5qkdkd2yd.onion  
-DNM Bible – http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion
-Surveillance Self-Defense - https://y7yea4pmqqtznb33qiugvysyn2bob5v62e4pvoadoibrwkq3tsddjeyd.onion  
+DNM Bible – http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion  
+Surveillance Self-Defense - https://y7yea4pmqqtznb33qiugvysyn2bob5v62e4pvoadoibrwkq3tsddjeyd.onion    
 The Hitchhiker’s Guide to Online Anonymity - http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion  
 Security in a box - http://lxjacvxrozjlxd7pqced7dyefnbityrwqjosuuaqponlg3v7esifrzad.onion  
 Debian - http://5ekxbftvqg26oir5wle3p27ax3wksbxcecnm6oemju7bjra2pn26s3qd.onion  
