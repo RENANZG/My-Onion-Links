@@ -1,5 +1,4 @@
-# ONION LINKS
-███████████████████████████  
+# ONION LINKS  
 ███████▀▀▀░░░░░░░▀▀▀███████  
 ████▀░░░░░░░░░░░░░░░░░▀████  
 ███│░░░░░░░░░░░░░░░░░░░│███  
@@ -17,7 +16,6 @@
 █████▄░░░└┴┴┴┴┴┴┴┘░░░▄█████  
 ███████▄░░░░░░░░░░░▄███████  
 ██████████▄▄▄▄▄▄▄██████████  
-███████████████████████████  
 -GENERAL  
 My Onion Bookmarks - http://7fc532c5lvbky6lxlt3gxnbj67gqmpzym2rowtekllgypyprbjxfiiad.onion  
 Simple Bookmarks - http://afajj7x4zfl2d3fc2u7uzxp4iwf4r2kucr5on24xk2hwrssoj7yivhid.onion  
