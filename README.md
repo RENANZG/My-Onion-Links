@@ -64,6 +64,7 @@ The Hitchhiker’s Guide to Online Anonymity - http://thgtoa27ujspeqxasrfvcf5aoz
 Security in a box - http://lxjacvxrozjlxd7pqced7dyefnbityrwqjosuuaqponlg3v7esifrzad.onion  
 Debian - http://5ekxbftvqg26oir5wle3p27ax3wksbxcecnm6oemju7bjra2pn26s3qd.onion  
 Hardened BSD - http://lkiw4tmbudbr43hbyhm636sarn73vuow77czzohdbqdpjuq3vdzvenyd.onion  
+Hack This Site - http://hackthisjogneh42n5o7gbzrewxee3vyu6ex37ukyvdw6jm66npakiyd.onion  
 Qubes OS - http://qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion  
 Whonix OS - http://www.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion  
 Tor Guide - http://guideeedvgbpkthetphncab5aqj7dp5t74y7vxsoonnvmaeamq74vuqd.onion    
@@ -100,30 +101,47 @@ GenoType.INC - http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.o
 Tor Times - http://tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion  
 NCIDE Task Force -   http://ncidetfs7banpz2d7vpndev5somwoki5vwdpfty2k7javniujekit6ad.onion  
 National Police of the Netherlands - http://tcecdnp2fhyxlcrjoyc2eimdjosr65hweut6y7r2u6b5y75yuvbkvfyd.onion  
+Tape-News - http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion  
+
 ### DOWNLOADS  
 Archive.is - http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion  
 Demonoid - http://demonoidevmsgasmojajlhikwetsr4pxzw6xkjt3dgdv6nr5yxvsamid.onion  
 The Pirate Bay - http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion  
 Torrent Galaxy - http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion  
-## CLEAR NET LINKS  
+## *** CLEAR NET LINKS ***  
 https://github.com/OnionLinker/onion-links  
 https://github.com/gt0day/DarkWeb  
 https://github.com/praveenjalasutram/Darkweb-Onion-Links  
 https://github.com/5ky1ar/Awesome-Onion-Links  
-https://dark.fail  
 https://raddle.me/wiki/onion_index  
-
+https://dark.fail  
+### NEWS AND BLOGS 
 https://www.justice.gov/news  
 https://sherloc.unodc.org  
 https://www.globalencryption.org  
 https://www.cnet.com/tech/services-and-software/cybersecurity  
 https://www.zdnet.com/topic/security  
-
+### SECURITY  
 https://tails.boum.org  
-https://securityinabox.org   
-https://www.cryptoparty.in  
-
 https://coveryourtracks.eff.org  
+https://ssd.eff.org  
+https://www.eff.org/https-everywhere  
+https://www.torproject.org/download  
+https://geti2p.net/en/  
+https://blog.torproject.org  
+https://lists.torproject.org/pipermail/tor-talk/  
+https://tails.boum.org  
+https://securityinabox.org  
+https://www.cryptoparty.in  
+https://emailselfdefense.fsf.org/en  
+https://password.net.eu.org  
+https://spreadprivacy.com/linux-privacy-tips  
+https://www.privacyguides.org  
+http://darkfaqs.chat.ru/SurfSafe.htm  
+https://check.torproject.org  
+https://torcheck.xenobite.eu  
 https://www.dnsleaktest.com  
+https://coveryourtracks.eff.org  
+### LIBRARIES  
+http://gen.lib.rus.ec  
 
-http://gen.lib.rus.ec
