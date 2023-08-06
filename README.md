@@ -116,9 +116,13 @@ https://raddle.me/wiki/onion_index
 https://www.justice.gov/news  
 https://sherloc.unodc.org  
 https://www.globalencryption.org  
+https://www.cnet.com/tech/services-and-software/cybersecurity  
+https://www.zdnet.com/topic/security  
 
 https://tails.boum.org  
 https://securityinabox.org   
 https://www.cryptoparty.in  
+https://coveryourtracks.eff.org  
+https://www.dnsleaktest.com  
 
 http://gen.lib.rus.ec
