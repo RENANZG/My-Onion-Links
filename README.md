@@ -123,25 +123,21 @@ https://www.cnet.com/tech/services-and-software/cybersecurity
 https://www.zdnet.com/topic/security  
 ### SECURITY  
 https://tails.boum.org  
-https://coveryourtracks.eff.org  
 https://ssd.eff.org  
+https://coveryourtracks.eff.org  
 https://www.eff.org/https-everywhere  
 https://www.torproject.org/download  
-https://geti2p.net/en/  
 https://blog.torproject.org  
+https://check.torproject.org  
+https://www.dnsleaktest.com  
+https://geti2p.net/en  
 https://lists.torproject.org/pipermail/tor-talk/  
-https://tails.boum.org  
 https://securityinabox.org  
 https://www.cryptoparty.in  
 https://emailselfdefense.fsf.org/en  
 https://password.net.eu.org  
-https://spreadprivacy.com/linux-privacy-tips  
-https://www.privacyguides.org  
-http://darkfaqs.chat.ru/SurfSafe.htm  
-https://check.torproject.org  
-https://torcheck.xenobite.eu  
-https://www.dnsleaktest.com  
-https://coveryourtracks.eff.org  
+https://spreadprivacy.com   
+https://www.privacyguides.org    
 ### LIBRARIES  
 http://gen.lib.rus.ec  
 
