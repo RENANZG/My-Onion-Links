@@ -110,17 +110,23 @@ The Pirate Bay - http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid
 Torrent Galaxy - http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion  
 ## *** CLEAR NET LINKS ***  
 https://github.com/OnionLinker/onion-links  
+https://github.com/alecmuffett/real-world-onion-sites  
 https://github.com/gt0day/DarkWeb  
 https://github.com/praveenjalasutram/Darkweb-Onion-Links  
 https://github.com/5ky1ar/Awesome-Onion-Links  
 https://raddle.me/wiki/onion_index  
 https://dark.fail  
+https://kycnot.me  
 ### NEWS AND BLOGS 
 https://www.justice.gov/news  
 https://sherloc.unodc.org  
 https://www.globalencryption.org  
 https://www.cnet.com/tech/services-and-software/cybersecurity  
 https://www.zdnet.com/topic/security  
+https://officercia.mirror.xyz  
+https://edwardsnowden.substack.com  
+https://madaidans-insecurities.github.io  
+https://seirdy.one  
 ### SECURITY  
 https://tails.boum.org  
 https://ssd.eff.org  
@@ -134,10 +140,13 @@ https://geti2p.net/en
 https://lists.torproject.org/pipermail/tor-talk/  
 https://securityinabox.org  
 https://www.cryptoparty.in  
+https://www.anarsec.guide  
 https://emailselfdefense.fsf.org/en  
 https://password.net.eu.org  
 https://spreadprivacy.com   
 https://www.privacyguides.org    
+https://prism-break.org  
+https://privacytools.io  
 ### LIBRARIES  
 http://gen.lib.rus.ec  
 
