@@ -140,6 +140,7 @@ https://geti2p.net/en
 https://lists.torproject.org/pipermail/tor-talk/  
 https://securityinabox.org  
 https://www.cryptoparty.in  
+https://emailselfdefense.fsf.org  
 https://www.anarsec.guide  
 https://emailselfdefense.fsf.org/en  
 https://password.net.eu.org  
@@ -147,6 +148,7 @@ https://spreadprivacy.com
 https://www.privacyguides.org    
 https://prism-break.org  
 https://privacytools.io  
+https://www.gnupg.org  
 ### LIBRARIES  
 http://gen.lib.rus.ec  
 
