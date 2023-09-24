@@ -2,6 +2,9 @@
 
 ![lasmeninas](https://github.com/RENANZG/My-Onion-Links/assets/53377291/e69859bd-ee3e-4d1b-8200-b51b2cf76eb0)
 
+### REFERENCES
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="border-color:inherit;border-style:solid;border-width:0px;font-family:"Comic Sans MS", cursive, sans-serif !important;font-size:10px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">https://github.com/OnionLinker/onion-links  <br>https://github.com/ahmia/search    <br>https://github.com/alecmuffett/real-world-onion-sites  <br>https://github.com/OnionLinker/onion-links    <br>https://github.com/DarkNetEye/tor-links    <br>https://github.com/gt0day/DarkWeb</td><td style="border-color:inherit;border-style:solid;border-width:0px;font-family:"Comic Sans MS", cursive, sans-serif !important;font-size:10px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">https://github.com/praveenjalasutram/Darkweb-Onion-Links  <br>https://github.com/5ky1ar/Awesome-Onion-Links  <br>https://github.com/alecmuffett/eotk    <br>https://raddle.me/wiki/onion_index  <br>https://dark.fail  <br>https://kycnot.me</td></tr></thead></table>
 
 ### GENERAL  
 My Onion Bookmarks - http://7fc532c5lvbky6lxlt3gxnbj67gqmpzym2rowtekllgypyprbjxfiiad.onion  
@@ -12,6 +15,7 @@ Envoy – http://envoyyvazgz2wbkq65md7dcqsgmujmgksowhx2446yep7tgnpfvlxbqd.onion
 Endchan – http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion  
 Satanic Ceremony - http://ho2hua2hfduv6f7hcbzdj2e6qdn4szgyy2jjnx545v4z3epq7uyrscid.onion  
 Bible4u - http://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion    
+
 ### COMUNICATION  
 Reddit - https://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion  
 Facebook - https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion  
@@ -31,6 +35,7 @@ Cwtch – http://cwtchim3z2gdsyb27acfc26lup5aqbegjrjsqulzrnkuoalq5h4gmcid.onion
 dump.li – http://dumpliwoard5qsrrsroni7bdiishealhky4snigbzfmzcquwo3kml4id.onion  
 Nyx – http://3ewfgrt4gzfccp6bnquhqb266r3zepiqpnsk3falwygkegtluwuyevid.onion  
 Adamant – http://adamant6457join2rxdkr2y7iqatar7n4n72lordxeknj435i4cjhpyd.onion  
+
 ### SEARCH ENGINES  
 Ahmia.fi - http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion  
 Brave - https://brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion  
@@ -57,6 +62,7 @@ TorWhois – http://torwhois2wo3cdwveznqlf2jz7ezm6icqrmnnr3fnez67vnyatqc65ad.oni
 Demon - http://srcdemonm74icqjvejew6fprssuolyoc2usjdwflevbdpqoetw4x3ead.onion  
 FindTor - http://findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion  
 Tordex - http://tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion  
+
 ### SECURITY  
 Electronic Frontier Foundation - https://www.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion  
 Privacy Guides - http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion  
@@ -76,6 +82,7 @@ Def Con Forum - http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.
 Cryptostorm VPN - http://stormwayszuh4juycoy4kwoww5gvcu2c4tdtpkup667pdwe4qenzwayd.onion  
 CryptBB – http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion  
 Skywalkers – http://cr756sdj2ukmiid6io6wlp5clg7227af7ttqqnge2t357bwdgsr22did.onion  
+
 ### CRYPTOCURRENCY  
 BitCoin wallet - http://wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion  
 Hidden Wallet - http://d46a7ehxj6d6f2cf4hi3b424uzywno24c7qtnvdvwsah5qpogewoeqid.onion  
@@ -92,6 +99,7 @@ Feather – http://featherdvtpi7ckdbkb2yxjfwx3oyvr3xjz3oo4rszylfzjdg6pbm3id.onio
 Cryptostamps – http://lgh3eosuqrrtvwx3s4nurujcqrm53ba5vqsbim5k5ntdpo33qkl7buyd.onion  
 Antialysis – http://pdcdvggsz5vhzbtxqn2rh27qovzga4pnrygya4ossewu64dqh2tvhsyd.onion  
 Bisq Wiki - http://s3p666he6q6djb6u3ekjdkmoyd77w63zq6gqf6sde54yg6bdfqukz2qd.onion  
+
 ### LIBRARIES  
 Z-Library - http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion  
 Z-Library Login Page - http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion  
@@ -101,6 +109,7 @@ Just Another Library - http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555lit
 InfoCon - http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion  
 Imperial Library - http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion    
 GenoType.INC - http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion    
+
 ### NEWS AND BLOGS  
 Tor Times - http://tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion  
 NCIDE Task Force -   http://ncidetfs7banpz2d7vpndev5somwoki5vwdpfty2k7javniujekit6ad.onion  
@@ -112,15 +121,8 @@ Archive.is - http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.oni
 Demonoid - http://demonoidevmsgasmojajlhikwetsr4pxzw6xkjt3dgdv6nr5yxvsamid.onion  
 The Pirate Bay - http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion  
 Torrent Galaxy - http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion  
-## *** CLEAR NET LINKS ***  
-https://github.com/OnionLinker/onion-links  
-https://github.com/alecmuffett/real-world-onion-sites  
-https://github.com/gt0day/DarkWeb  
-https://github.com/praveenjalasutram/Darkweb-Onion-Links  
-https://github.com/5ky1ar/Awesome-Onion-Links  
-https://raddle.me/wiki/onion_index  
-https://dark.fail  
-https://kycnot.me  
+
+
 ### NEWS AND BLOGS 
 https://www.justice.gov/news  
 https://sherloc.unodc.org  
