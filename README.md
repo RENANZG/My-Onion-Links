@@ -4,7 +4,14 @@
 
 ### REFERENCES
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="border-color:inherit;border-style:solid;border-width:0px;font-family:"Comic Sans MS", cursive, sans-serif !important;font-size:10px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">https://github.com/OnionLinker/onion-links  <br>https://github.com/ahmia/search  <br>https://github.com/UncensoredHiddenWiki/onion-links  <br>https://github.com/alecmuffett/real-world-onion-sites  <br>https://github.com/OnionLinker/onion-links    <br>https://github.com/DarkNetEye/tor-links    <br>https://github.com/gt0day/DarkWeb</td><td style="border-color:inherit;border-style:solid;border-width:0px;font-family:"Comic Sans MS", cursive, sans-serif !important;font-size:10px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">https://github.com/praveenjalasutram/Darkweb-Onion-Links  <br>https://github.com/5ky1ar/Awesome-Onion-Links  <br>https://github.com/alecmuffett/eotk    <br>https://raddle.me/wiki/onion_index  <br>https://dark.fail  <br>https://kycnot.me </br></tr></thead></table>
+<table>
+<thead>
+  <tr>
+    <td>https://github.com/OnionLinker/onion-links  <br>https://github.com/ahmia/search    <br>https://github.com/alecmuffett/real-world-onion-sites  <br>https://github.com/UncensoredHiddenWiki/onion-links<br>https://github.com/OnionLinker/onion-links    <br>https://github.com/DarkNetEye/tor-links    <br>https://github.com/gt0day/DarkWeb</td>
+    <td>https://github.com/praveenjalasutram/Darkweb-Onion-Links  <br>https://github.com/5ky1ar/Awesome-Onion-Links  <br>https://github.com/alecmuffett/eotk    <br>https://raddle.me/wiki/onion_index  <br>https://dark.fail  <br>https://kycnot.me</td>
+  </tr>
+</thead>
+</table>
 
 ### GENERAL  
 My Onion Bookmarks - http://7fc532c5lvbky6lxlt3gxnbj67gqmpzym2rowtekllgypyprbjxfiiad.onion  
