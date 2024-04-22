@@ -312,7 +312,8 @@ Advanced  select (*take care with fingerprint):</br>
               <DL><p>
                 <DT><H3>SECURITY AND PRIVACY</H3>
                 <DT><A HREF="http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion">The Tor Project <BR><PRE> http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion</PRE></A>
-                <DT><A HREF="http://iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion">Electronic Frontier Foundation <BR><PRE> http://iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion</PRE></A>
+                <DT><A HREF="http://iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion">Electronic Frontier Foundation (EFF) <BR><PRE> http://iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion</PRE></A>
+                <DT><A HREF="https://www.amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion">Amnesty International <BR><PRE>https://www.amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion</PRE></A>
                 <DT><A HREF="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion">DNM Bible <BR><PRE> http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion</PRE></A>
                 <DT><A HREF="http://xmrguide25ibknxgaray5rqksrclddxqku3ggdcnzg4ogdi5qkdkd2yd.onion">XMRGuide <BR><PRE> http://xmrguide25ibknxgaray5rqksrclddxqku3ggdcnzg4ogdi5qkdkd2yd.onion</PRE></A>
                 <DT><A HREF="http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion">CryptBB <BR><PRE> http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion</PRE></A>
