@@ -48,7 +48,10 @@
 </a>
 <a href="https://www.youtube.com/watch?v=d-Jm8-eTLhw&pp=ygUVbG9saSBtZXRhdmVyc2UgcG9saWNl">
   <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dd-Jm8-eTLhw%26pp%3DygUVbG9saSBtZXRhdmVyc2UgcG9saWNl" alt="The Loli Police Department in VRChat" title="The Loli Police Department in VRChat"/>
-</a>
+</a></br>
+
+<a href="https://www.youtube.com/watch?v=u8jLUjpCWrs">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Du8jLUjpCWrs" alt="All PHP Applications are Vulnerable" title="All PHP Applications are Vulnerable"/></a>
 
 </a>
 </details>
