@@ -17,5 +17,6 @@ Journalists
 Scholars
 Human rights defenders
 Political dissidents
-Islamic activists
-Your neighbor's wifi
+Islamic activists  
+Backdoors hard to detect  
+Your neighbor's wifi  

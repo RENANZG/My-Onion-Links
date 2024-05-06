@@ -1,15 +1,19 @@
 #!/bin/bash
 
-######################################################
-##  Install Tails from Debian or Ubuntu, based on   ##
-##  https://tails.net/install/expert/index.en.html  ##
-##  https://github.com/hellais/TAILS-OSX            ##
-##                                                  ##
-##  Make it executable:                             ##
-##  $ sudo chmod +x ~/Downloads/tails-install.sh    ##
-##  Then run                                        ##
-##  $ sudo bash ~/Downloads/tails-install.sh        ##
-######################################################
+#######################################################
+##  Install Tails from Debian or Ubuntu, based on:   ##
+##                                                   ##
+##  https://tails.net/install/expert/index.en.html   ##
+##  https://github.com/hellais/TAILS-OSX             ##
+##                                                   ##
+##  Make it executable:                              ##
+##  $ sudo chmod +x ~/Downloads/tails-install.sh     ##
+##                                                   ##
+##  Then run                                         ##
+##  $ sudo bash ~/Downloads/tails-install.sh         ##
+##                                                   ##
+##  Last edited: 2024-05-01                          ##
+#######################################################
 
 
 if [ "$1" == "clean" ]; then

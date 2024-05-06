@@ -256,9 +256,11 @@ Advanced  select (*take care with fingerprint):</br>
 
 </details>
 
-<h6>EFF Tor University Challenge - https://toruniversity.eff.org</h6>
+<h4>Ready-to-import bookmarks: https://github.com/RENANZG/My-Onion-Links/blob/main/bookmarks_import.html</h4>
 
-<h4>Import easily: https://github.com/RENANZG/My-Onion-Links/blob/main/bookmarks_import.html</h4>
+<h4>Tails install script from Debian or Ubuntu: https://github.com/RENANZG/My-Onion-Links/blob/main/tails-install.sh</h4>
+
+<sub>(*The script may need some improvements, but I don't have the patience and time to do it.)</sub>
 
  <DT><H3>GENERAL</H3>
           <DL><p>
@@ -527,8 +529,15 @@ https://godnotaba.io</br>
 https://kleinfinger.org</br>
 https://www.vice.com</br>
 https://darknetlive.com</br>
+
+</td>
+<td>
+https://www.youtube.com/@mentalOutlaw</br>
 https://www.youtube.com/@Seytonic</br>
-</br>
+https://sherloc.unodc.org/cld/st/home.html</br>
+https://globalinitiative.net</br>
+https://www.eurojust.europa.eu/publications</br>
+
 </td>
 </tr>
 </table>
