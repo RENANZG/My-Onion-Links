@@ -6,7 +6,7 @@ https://geti2p.net<br>
 https://www.whonix.org/wiki/I2P<br>
 https://www.reddit.com/r/i2p<br>
 
-<h4>Tails with I2P</h4>
+<h4>Linux with I2P</h4>
 https://www.reddit.com/r/prestium<br>
 https://github.com/DoingFedTime/Prestium<br>
 https://github.com/Plowsker/tails-i2pd<br>
