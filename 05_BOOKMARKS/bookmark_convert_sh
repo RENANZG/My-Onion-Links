@@ -1,0 +1,57 @@
+#!/bin/bash
+
+# Check if an input file is provided
+if [ $# -ne 1 ]; then
+    echo "Usage: $0 <input_file>"
+    exit 1
+fi
+
+# Read the input file path from the command line argument
+input_file="$1"
+
+# Check if the input file exists
+if [ ! -f "$input_file" ]; then
+    echo "Input file not found: $input_file"
+    exit 1
+fi
+
+# Extract the directory path and base name of the input file
+input_dir=$(dirname "$input_file")
+input_base=$(basename -- "$input_file" .html)
+
+# Read the content of the input file
+html_content=$(<"$input_file")
+
+# Remove lines containing <pre><code> and </code></pre>
+html_content=$(echo "$html_content" | sed '/<pre><code>/d' | sed '/<\/code><\/pre>/d')
+
+# Replace <ul> and </ul> tags with <dl><p> and </dl><p> tags
+html_content=$(echo "$html_content" | sed -e 's/<ul>/<dl><p>/g' -e 's/<\/ul>/<\/dl><p>/g')
+
+# Replace <li> tags with <dt> tags
+html_content=$(echo "$html_content" | sed -e 's/<li>/<dt>/g' -e 's/<\/li>//g')
+
+# Ensure <h3> tags are within <dt> tags and follow the correct format
+html_content=$(echo "$html_content" | sed -e 's/<h3>/<dt><h3>/g' -e 's/<\/h3>/<\/h3><p>/g')
+
+# Determine the output file path (same folder as input file)
+output_file="$input_dir/${input_base}_output.html"
+
+# Write the necessary HTML structure to the output file
+{
+  echo "<!DOCTYPE NETSCAPE-Bookmark-file-1>"
+  echo "<html>"
+  echo "<head>"
+  echo "  <title>Bookmarks</title>"
+  echo "</head>"
+  echo "<body>"
+  echo "  <dl><p>"
+  echo "$html_content" | sed '1,2d'  # Remove the first two lines of existing content
+  echo "</body>"
+  echo "</html>"
+} > "$output_file"
+
+# Fixing the redundant </dl><p> tags
+sed -i 's/<\/dl><p>\n<\/dl><p>/<\/dl><p>/' "$output_file"
+
+echo "Conversion completed. Output saved to $output_file"

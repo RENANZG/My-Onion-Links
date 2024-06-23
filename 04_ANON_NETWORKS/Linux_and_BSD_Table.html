@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparison of Linux and BSD Distributions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 14px;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Feature</th>
+                <th>Debian</th>
+                <th>Alpine</th>
+                <th>Arch Linux</th>
+                <th>FreeBSD</th>
+                <th>Gentoo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Community Size</td>
+                <td>Vastly larger dev &amp; user community</td>
+                <td>Smaller but growing community</td>
+                <td>Large and active community</td>
+                <td>Smaller but dedicated community</td>
+                <td>Medium-sized, highly technical community</td>
+            </tr>
+            <tr>
+                <td>Filesystem Footprint</td>
+                <td>Relatively larger</td>
+                <td>Smaller filesystem footprint</td>
+                <td>Medium-sized, depends on user setup</td>
+                <td>Varies, but generally lightweight</td>
+                <td>Varies greatly depending on configuration</td>
+            </tr>
+            <tr>
+                <td>Build Reproducibility</td>
+                <td>Working towards reproducible builds</td>
+                <td>Fully reproducible builds</td>
+                <td>Partially reproducible</td>
+                <td>Supports reproducible builds</td>
+                <td>Supports reproducible builds</td>
+            </tr>
+            <tr>
+                <td>Memory Efficiency</td>
+                <td>Efficient but heavier compared to Alpine</td>
+                <td>More memory efficient due to BusyBox and musl library</td>
+                <td>Moderately efficient</td>
+                <td>Efficient, especially in server environments</td>
+                <td>Can be highly optimized for efficiency</td>
+            </tr>
+            <tr>
+                <td>Documentation</td>
+                <td>Extensive and well-documented</td>
+                <td>Improving but less extensive</td>
+                <td>Excellent documentation</td>
+                <td>Good but different style compared to Linux</td>
+                <td>Extensive and technical documentation</td>
+            </tr>
+            <tr>
+                <td>Libc Compatibility</td>
+                <td>glibc: highly compatible</td>
+                <td>musl: more efficient, less compatible than glibc</td>
+                <td>glibc: highly compatible</td>
+                <td>BSD libc: compatible within BSD systems</td>
+                <td>glibc or musl: user choice</td>
+            </tr>
+            <tr>
+                <td>Init System</td>
+                <td>systemd</td>
+                <td>OpenRC (not systemd)</td>
+                <td>systemd</td>
+                <td>rc.d</td>
+                <td>OpenRC, systemd, or others</td>
+            </tr>
+            <tr>
+                <td>Infrastructure Trust</td>
+                <td>More trustworthy infrastructure</td>
+                <td>Relatively new but trusted</td>
+                <td>Trusted infrastructure</td>
+                <td>Highly trusted, well-established</td>
+                <td>Trusted, community-driven</td>
+            </tr>
+            <tr>
+                <td>Expertise Availability</td>
+                <td>Many people know its ins and outs</td>
+                <td>Fewer experts but community is knowledgeable</td>
+                <td>Many experts available</td>
+                <td>Experts available but more niche</td>
+                <td>Many experts, especially for technical tasks</td>
+            </tr>
+            <tr>
+                <td>Shell</td>
+                <td>bash</td>
+                <td>ash</td>
+                <td>bash</td>
+                <td>sh</td>
+                <td>bash</td>
+            </tr>
+            <tr>
+                <td>Package Manager</td>
+                <td>deb (APT)</td>
+                <td>apk</td>
+                <td>pacman</td>
+                <td>pkg</td>
+                <td>portage</td>
+            </tr>
+            <tr>
+                <td>Security Focus</td>
+                <td>General purpose, robust security practices</td>
+                <td>High focus on security, simplicity, and resource efficiency</td>
+                <td>General purpose with strong security practices</td>
+                <td>Strong security features, especially for networking</td>
+                <td>Highly configurable security settings</td>
+            </tr>
+            <tr>
+                <td>Usage in Docker</td>
+                <td>Commonly used, larger image sizes</td>
+                <td>Popular for Docker and micro-services, Alpine Docker image is ~4.5 MB</td>
+                <td>Used in Docker, more minimal than Debian</td>
+                <td>Less common in Docker</td>
+                <td>Less common in Docker</td>
+            </tr>
+            <tr>
+                <td>Userland Binaries</td>
+                <td>Standard compilation</td>
+                <td>All userland binaries are compiled as Position Independent Executables (PIE) with stack smashing protection</td>
+                <td>Standard compilation</td>
+                <td>Position Independent Executables (PIE) and other security features</td>
+                <td>User-configurable compilation options</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

@@ -1,0 +1,795 @@
+<ul>
+  <li>
+    <h3>GENERAL</h3></li>
+  <ul>
+    <li>
+      <a href="http://7fc532c5lvbky6lxlt3gxnbj67gqmpzym2rowtekllgypyprbjxfiiad.onion">My Onion Bookmarks</a>
+      <pre><code>http://7fc532c5lvbky6lxlt3gxnbj67gqmpzym2rowtekllgypyprbjxfiiad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://afajj7x4zfl2d3fc2u7uzxp4iwf4r2kucr5on24xk2hwrssoj7yivhid.onion">Simple Bookmarks</a>
+      <pre><code>http://afajj7x4zfl2d3fc2u7uzxp4iwf4r2kucr5on24xk2hwrssoj7yivhid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://torpastezr7464pevuvdjisbvaf4yqi4n7sgz7lkwgqwxznwy5duj4ad.onion">TorPaste</a>
+      <pre><code>http://torpastezr7464pevuvdjisbvaf4yqi4n7sgz7lkwgqwxznwy5duj4ad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://strongerw2ise74v3duebgsvug4mehyhlpa7f6kfwnas7zofs3kov7yd.onion">Stronghold Paste</a>
+      <pre><code>http://strongerw2ise74v3duebgsvug4mehyhlpa7f6kfwnas7zofs3kov7yd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://7eoz4h2nvw4zlr7gvlbutinqqpm546f5egswax54az6lt2u7e3t6d7yd.onion">Hidden Answers</a>
+      <pre><code>http://7eoz4h2nvw4zlr7gvlbutinqqpm546f5egswax54az6lt2u7e3t6d7yd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://deepa2kol4ur4wkzpmjf5rf7lvsflzisslnrnr2n7goaebav4j6w7zyd.onion">Deep Answers</a>
+      <pre><code>http://deepa2kol4ur4wkzpmjf5rf7lvsflzisslnrnr2n7goaebav4j6w7zyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://v3pastedc5jeqahtq77gvu3vz222bcqhlfubfunzjzqedg6jdqqlvgqd.onion">V3Paste</a>
+      <pre><code>http://v3pastedc5jeqahtq77gvu3vz222bcqhlfubfunzjzqedg6jdqqlvgqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion">Invidious YouTube</a>
+      <pre><code>http://kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion">Facebook</a>
+      <pre><code>http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://vfaomgh4jxphpbdfizkm5gbtjahmei234giqj4facbwhrfjtcldauqad.onion">Nitter Twitter</a>
+      <pre><code>http://vfaomgh4jxphpbdfizkm5gbtjahmei234giqj4facbwhrfjtcldauqad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion">Reddit</a>
+      <pre><code>http://reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion">Dread</a>
+      <pre><code>http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://libreeunomyly6ot7kspglmbd5cvlkogib6rozy43r2glatc6rmwauqd.onion">Libre Forum</a>
+      <pre><code>http://libreeunomyly6ot7kspglmbd5cvlkogib6rozy43r2glatc6rmwauqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://envoyyvazgz2wbkq65md7dcqsgmujmgksowhx2446yep7tgnpfvlxbqd.onion">Envoy</a>
+      <pre><code>http://envoyyvazgz2wbkq65md7dcqsgmujmgksowhx2446yep7tgnpfvlxbqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion">Endchan</a>
+      <pre><code>http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://ho2hua2hfduv6f7hcbzdj2e6qdn4szgyy2jjnx545v4z3epq7uyrscid.onion">Satanic Ceremony</a>
+      <pre><code>http://ho2hua2hfduv6f7hcbzdj2e6qdn4szgyy2jjnx545v4z3epq7uyrscid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion">Bible4u</a>
+      <pre><code>http://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion">CIA.gov</a>
+      <pre><code>http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://bbzzzsvqcrqtki6umym6itiixfhni37ybtt7mkbjyxn2pgllzxf2qgyd.onion">Breaking Bad</a>
+      <pre><code>http://bbzzzsvqcrqtki6umym6itiixfhni37ybtt7mkbjyxn2pgllzxf2qgyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://vvedndyt433kopnhv6vejxnut54y5752vpxshjaqmj7ftwiu6quiv2ad.onion">Psychonaut Wiki</a>
+      <pre><code>http://vvedndyt433kopnhv6vejxnut54y5752vpxshjaqmj7ftwiu6quiv2ad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://hacktowns3sba2xavxecm23aoocvzciaxirh3vekg2ovzdjgjxedfvqd.onion">HackTown</a>
+      <pre><code>http://hacktowns3sba2xavxecm23aoocvzciaxirh3vekg2ovzdjgjxedfvqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion">SuprBay</a>
+      <pre><code>http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion</code></pre>
+    </li>
+  </ul>
+  <li>
+    <h3>SEARCH ENGINES</h3></li>
+  <ul>
+    <li>
+      <a href="http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion">Ahmia.fi</a>
+      <pre><code>http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion">DuckDuckGo</a>
+      <pre><code>http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion">ExcavaTOR</a>
+      <pre><code>http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion">Haystak</a>
+      <pre><code>http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://metagerv65pwclop2rsfzg4jwowpavpwd6grhhlvdgsswvo6ii4akgyd.onion">Metager.org</a>
+      <pre><code>http://metagerv65pwclop2rsfzg4jwowpavpwd6grhhlvdgsswvo6ii4akgyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://notevilmtxf25uw7tskqxj6njlpebyrmlrerfv5hc4tuq7c7hilbyiqd.onion">NotEvil Dark Web</a>
+      <pre><code>http://notevilmtxf25uw7tskqxj6njlpebyrmlrerfv5hc4tuq7c7hilbyiqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion">OnionLand Search</a>
+      <pre><code>http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://kn3hl4xwon63tc6hpjrwza2npb7d4w5yhbzq7jjewpfzyhsd65tm6dad.onion">Onion Search</a>
+      <pre><code>http://kn3hl4xwon63tc6hpjrwza2npb7d4w5yhbzq7jjewpfzyhsd65tm6dad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://searxingux6na3djgdrcfwutafxmmagerhbieihsgu7sgmjee3u777yd.onion">SearX</a>
+      <pre><code>http://searxingux6na3djgdrcfwutafxmmagerhbieihsgu7sgmjee3u777yd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion">Tor66</a>
+      <pre><code>http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion">Torch</a>
+      <pre><code>http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://orealmvxooetglfeguv2vp65a3rig2baq2ljc7jxxs4hsqsrcemkxcad.onion">OurRealm</a>
+      <pre><code>http://orealmvxooetglfeguv2vp65a3rig2baq2ljc7jxxs4hsqsrcemkxcad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://e27slbec2ykiyo26gfuovaehuzsydffbit5nlxid53kigw3pvz6uosqd.onion">Sentor</a>
+      <pre><code>http://e27slbec2ykiyo26gfuovaehuzsydffbit5nlxid53kigw3pvz6uosqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://spacednczzrstmwlrt2olozfyrxcnrn3seyz2t4nhigujx5yivfy23id.onion">Space</a>
+      <pre><code>http://spacednczzrstmwlrt2olozfyrxcnrn3seyz2t4nhigujx5yivfy23id.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://krakenai2gmgwwqyo7bcklv2lzcvhe7cxzzva2xpygyax5f33oqnxpad.onion">Kraken</a>
+      <pre><code>http://krakenai2gmgwwqyo7bcklv2lzcvhe7cxzzva2xpygyax5f33oqnxpad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion">Tor66</a>
+      <pre><code>http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://xcprh4cjas33jnxgs3zhakof6mctilfxigwjcsevdfap7vtyj57lmjad.onion">TGS</a>
+      <pre><code>http://xcprh4cjas33jnxgs3zhakof6mctilfxigwjcsevdfap7vtyj57lmjad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://q3o3hdjbf6vwxdnpskyhxw7w7rnmnfhz2szbuala4q24x6csbp7adiad.onion">HST</a>
+      <pre><code>http://q3o3hdjbf6vwxdnpskyhxw7w7rnmnfhz2szbuala4q24x6csbp7adiad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion">Archive.today</a>
+      <pre><code>http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://torwhois2wo3cdwveznqlf2jz7ezm6icqrmnnr3fnez67vnyatqc65ad.onion">TorWhois</a>
+      <pre><code>http://torwhois2wo3cdwveznqlf2jz7ezm6icqrmnnr3fnez67vnyatqc65ad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://srcdemonm74icqjvejew6fprssuolyoc2usjdwflevbdpqoetw4x3ead.onion">Demon</a>
+      <pre><code>http://srcdemonm74icqjvejew6fprssuolyoc2usjdwflevbdpqoetw4x3ead.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion">FindTor</a>
+      <pre><code>http://findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion">Tordex</a>
+      <pre><code>http://tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://5n4qdkw2wavc55peppyrelmb2rgsx7ohcb2tkxhub2gyfurxulfyd3id.onion">Tor Links</a>
+      <pre><code>http://5n4qdkw2wavc55peppyrelmb2rgsx7ohcb2tkxhub2gyfurxulfyd3id.onion</code></pre>
+    </li>
+  </ul>
+  <li>
+    <h3>SECURITY AND PRIVACY</h3></li>
+  <ul>
+    <li>
+      <a href="http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion">The Tor Project</a>
+      <pre><code>http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion">Electronic Frontier Foundation (EFF)</a>
+      <pre><code>http://iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion</code></pre>
+    </li>
+    <li>
+      <a href="https://amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion">Amnesty International</a>
+      <pre><code>https://amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion">DNM Bible</a>
+      <pre><code>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://xmrguide25ibknxgaray5rqksrclddxqku3ggdcnzg4ogdi5qkdkd2yd.onion">XMRGuide</a>
+      <pre><code>http://xmrguide25ibknxgaray5rqksrclddxqku3ggdcnzg4ogdi5qkdkd2yd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion">CryptBB</a>
+      <pre><code>http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://cr756sdj2ukmiid6io6wlp5clg7227af7ttqqnge2t357bwdgsr22did.onion">Skywalkers</a>
+      <pre><code>http://cr756sdj2ukmiid6io6wlp5clg7227af7ttqqnge2t357bwdgsr22did.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion">Privacy Guides</a>
+      <pre><code>http://xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion">Dark.fail's PGP Tool</a>
+      <pre><code>http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://y7yea4pmqqtznb33qiugvysyn2bob5v62e4pvoadoibrwkq3tsddjeyd.onion">Surveillance Self-Defense</a>
+      <pre><code>http://y7yea4pmqqtznb33qiugvysyn2bob5v62e4pvoadoibrwkq3tsddjeyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion">The Hitchhiker’s Guide to Online Anonymity</a>
+      <pre><code>http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://lxjacvxrozjlxd7pqced7dyefnbityrwqjosuuaqponlg3v7esifrzad.onion">Security in a box</a>
+      <pre><code>http://lxjacvxrozjlxd7pqced7dyefnbityrwqjosuuaqponlg3v7esifrzad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://5ekxbftvqg26oir5wle3p27ax3wksbxcecnm6oemju7bjra2pn26s3qd.onion">Debian</a>
+      <pre><code>http://5ekxbftvqg26oir5wle3p27ax3wksbxcecnm6oemju7bjra2pn26s3qd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://lkiw4tmbudbr43hbyhm636sarn73vuow77czzohdbqdpjuq3vdzvenyd.onion">Hardened BSD</a>
+      <pre><code>http://lkiw4tmbudbr43hbyhm636sarn73vuow77czzohdbqdpjuq3vdzvenyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://hackthisjogneh42n5o7gbzrewxee3vyu6ex37ukyvdw6jm66npakiyd.onion">Hack This Site</a>
+      <pre><code>http://hackthisjogneh42n5o7gbzrewxee3vyu6ex37ukyvdw6jm66npakiyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion">Qubes OS</a>
+      <pre><code>http://qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion">Whonix OS</a>
+      <pre><code>http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://guideeedvgbpkthetphncab5aqj7dp5t74y7vxsoonnvmaeamq74vuqd.onion">Tor Guide</a>
+      <pre><code>http://guideeedvgbpkthetphncab5aqj7dp5t74y7vxsoonnvmaeamq74vuqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion">DEF CON Forum</a>
+      <pre><code>http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://jrw32khnmfehvdsvwdf34mywoqj5emvxh4mzbkls6jk2cb3thcgz6nid.onion">DEF CON Groups</a>
+      <pre><code>http://jrw32khnmfehvdsvwdf34mywoqj5emvxh4mzbkls6jk2cb3thcgz6nid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://m6rqq6kocsyugo2laitup5nn32bwm3lh677chuodjfmggczoafzwfcad.onion">DEF CON Media</a>
+      <pre><code>http://m6rqq6kocsyugo2laitup5nn32bwm3lh677chuodjfmggczoafzwfcad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion">Fake ID Generator</a>
+      <pre><code>http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://blkhatjxlrvc5aevqzz5t6kxldayog6jlx5h7glnu44euzongl4fh5ad.onion">Black Hat Chat</a>
+      <pre><code>http://blkhatjxlrvc5aevqzz5t6kxldayog6jlx5h7glnu44euzongl4fh5ad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://i3xi5qxvbrngh3g6o7czwjfxwjzigook7zxzjmgwg5b7xnjcn5hzciad.onion">Tor Specifications</a>
+      <pre><code>http://i3xi5qxvbrngh3g6o7czwjfxwjzigook7zxzjmgwg5b7xnjcn5hzciad.onion</code></pre>
+    </li>
+  </ul>
+  <li>
+    <h3>VPN</h3></li>
+  <ul>
+    <li>
+      <a href="http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion">Mullvad</a>
+      <pre><code>http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://stormwayszuh4juycoy4kwoww5gvcu2c4tdtpkup667pdwe4qenzwayd.onion">Cryptostorm VPN</a>
+      <pre><code>http://stormwayszuh4juycoy4kwoww5gvcu2c4tdtpkup667pdwe4qenzwayd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion">Njalla VPN</a>
+      <pre><code>http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion">AirVPN</a>
+      <pre><code>http://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion</code></pre>
+  </ul>
+  <li>
+    <h3>COMUNICATION</h3></li>
+  <ul>
+    <li>
+      <a href="http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion">Protonmail</a>
+      <pre><code>http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion">Onion Mail</a>
+      <pre><code>http://pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion">OnionShare</a>
+      <pre><code>http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://4tdb2oju6nrrp77en6opmyfucvycs22y5ohuizfgjvbyjqjovltooyyd.onion">Tempsend</a>
+      <pre><code>http://4tdb2oju6nrrp77en6opmyfucvycs22y5ohuizfgjvbyjqjovltooyyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://bcloudwenjxgcxjh6uheyt72a5isimzgg4kv5u74jb2s22y3hzpwh6id.onion">BlackCloud</a>
+      <pre><code>http://bcloudwenjxgcxjh6uheyt72a5isimzgg4kv5u74jb2s22y3hzpwh6id.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://dumpliwoard5qsrrsroni7bdiishealhky4snigbzfmzcquwo3kml4id.onion">dump.li</a>
+      <pre><code>http://dumpliwoard5qsrrsroni7bdiishealhky4snigbzfmzcquwo3kml4id.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion">Riseup</a>
+      <pre><code>http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://tempmail4gi5qfqzjs2bxo3wf6eurpelxmior6ohzq5vw7aeay67wiyd.onion">TempMail</a>
+      <pre><code>http://tempmail4gi5qfqzjs2bxo3wf6eurpelxmior6ohzq5vw7aeay67wiyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://chillingguw3yu2rmrkqsog4554egiry6fmy264l5wblyadds3c2lnyd.onion">Im Hot Chilli</a>
+      <pre><code>http://chillingguw3yu2rmrkqsog4554egiry6fmy264l5wblyadds3c2lnyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion">TorBox</a>
+      <pre><code>http://torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion">Cock.li</a>
+      <pre><code>http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion">Mail2Tor</a>
+      <pre><code>http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://sdolvtfhatvsysc6l34d65ymdwxcujausv7k5jk4cy5ttzhjoi6fzvyd.onion">SecureDrop</a>
+      <pre><code>http://sdolvtfhatvsysc6l34d65ymdwxcujausv7k5jk4cy5ttzhjoi6fzvyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://7sk2kov2xwx6cbc32phynrifegg6pklmzs7luwcggtzrnlsolxxuyfyd.onion">systemli</a>
+      <pre><code>http://7sk2kov2xwx6cbc32phynrifegg6pklmzs7luwcggtzrnlsolxxuyfyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion">Impreza</a>
+      <pre><code>http://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion">Brave</a>
+      <pre><code>http://brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://bcloudwenjxgcxjh6uheyt72a5isimzgg4kv5u74jb2s22y3hzpwh6id.onion">BlackCloud</a>
+      <pre><code>http://bcloudwenjxgcxjh6uheyt72a5isimzgg4kv5u74jb2s22y3hzpwh6id.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://cwtchim3z2gdsyb27acfc26lup5aqbegjrjsqulzrnkuoalq5h4gmcid.onion">Cwtch</a>
+      <pre><code>http://cwtchim3z2gdsyb27acfc26lup5aqbegjrjsqulzrnkuoalq5h4gmcid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://dumpliwoard5qsrrsroni7bdiishealhky4snigbzfmzcquwo3kml4id.onion">dump.li</a>
+      <pre><code>http://dumpliwoard5qsrrsroni7bdiishealhky4snigbzfmzcquwo3kml4id.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://3ewfgrt4gzfccp6bnquhqb266r3zepiqpnsk3falwygkegtluwuyevid.onion">Nyx</a>
+      <pre><code>http://3ewfgrt4gzfccp6bnquhqb266r3zepiqpnsk3falwygkegtluwuyevid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://adamant6457join2rxdkr2y7iqatar7n4n72lordxeknj435i4cjhpyd.onion">Adamant</a>
+      <pre><code>http://adamant6457join2rxdkr2y7iqatar7n4n72lordxeknj435i4cjhpyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://titanxsu7bfd7vlyyffilprauwngr4acbnz27ulfhyxrqutu7atyptad.onion">Titan</a>
+      <pre><code>http://titanxsu7bfd7vlyyffilprauwngr4acbnz27ulfhyxrqutu7atyptad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://34vnln24rlakgbk6gpityvljieayyw7q4bhdbbgs6zp2v5nbh345zgad.onion">WebIRC</a>
+      <pre><code>http://34vnln24rlakgbk6gpityvljieayyw7q4bhdbbgs6zp2v5nbh345zgad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://cwtchim3z2gdsyb27acfc26lup5aqbegjrjsqulzrnkuoalq5h4gmcid.onion">Cwtch</a>
+      <pre><code>http://cwtchim3z2gdsyb27acfc26lup5aqbegjrjsqulzrnkuoalq5h4gmcid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://zerobinftagjpeeebbvyzjcqyjpmjvynj5qlexwyxe7l3vqejxnqv5qd.onion">ZeroBin</a>
+      <pre><code>http://zerobinftagjpeeebbvyzjcqyjpmjvynj5qlexwyxe7l3vqejxnqv5qd.onion</code></pre>
+  </ul>
+  <li>
+    <h3>CRYPTOCURRENCY</h3></li>
+  <ul>
+    <li>
+      <a href="http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion">Monero</a>
+      <pre><code>http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion">DNMX</a>
+      <pre><code>http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://featherdvtpi7ckdbkb2yxjfwx3oyvr3xjz3oo4rszylfzjdg6pbm3id.onion">Feather</a>
+      <pre><code>http://featherdvtpi7ckdbkb2yxjfwx3oyvr3xjz3oo4rszylfzjdg6pbm3id.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://blkchairbknpn73cfjhevhla7rkp4ed5gg2knctvv7it4lioy22defid.onion">Blockchair</a>
+      <pre><code>http://blkchairbknpn73cfjhevhla7rkp4ed5gg2knctvv7it4lioy22defid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://s3p666he6q6djb6u3ekjdkmoyd77w63zq6gqf6sde54yg6bdfqukz2qd.onion">Bisq Wiki</a>
+      <pre><code>http://s3p666he6q6djb6u3ekjdkmoyd77w63zq6gqf6sde54yg6bdfqukz2qd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion">Wasabi</a>
+      <pre><code>http://wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://d46a7ehxj6d6f2cf4hi3b424uzywno24c7qtnvdvwsah5qpogewoeqid.onion">Hidden Wallet</a>
+      <pre><code>http://d46a7ehxj6d6f2cf4hi3b424uzywno24c7qtnvdvwsah5qpogewoeqid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://p2qzxkca42e3wccvqgby7jrcbzlf6g7pnkvybnau4szl5ykdydzmvbid.onion">OnionWallet</a>
+      <pre><code>http://p2qzxkca42e3wccvqgby7jrcbzlf6g7pnkvybnau4szl5ykdydzmvbid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://nehdddktmhvqklsnkjqcbpmb63htee2iznpcbs5tgzctipxykpj6yrid.onion">LocalMonero.co</a>
+      <pre><code>http://nehdddktmhvqklsnkjqcbpmb63htee2iznpcbs5tgzctipxykpj6yrid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://pdcdvggsz5vhzbtxqn2rh27qovzga4pnrygya4ossewu64dqh2tvhsyd.onion">Antinalysis</a>
+      <pre><code>http://pdcdvggsz5vhzbtxqn2rh27qovzga4pnrygya4ossewu64dqh2tvhsyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://6hasakffvppilxgehrswmffqurlcjjjhd76jgvaqmsg6ul25s7t3rzyd.onion">Bitcoin Core</a>
+      <pre><code>http://6hasakffvppilxgehrswmffqurlcjjjhd76jgvaqmsg6ul25s7t3rzyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion">Mempool</a>
+      <pre><code>http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://explorerzydxu5ecjrkwceayqybizmpjjznk5izmitf2modhcusuqlid.onion">Blockstream</a>
+      <pre><code>http://explorerzydxu5ecjrkwceayqybizmpjjznk5izmitf2modhcusuqlid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://lgh3eosuqrrtvwx3s4nurujcqrm53ba5vqsbim5k5ntdpo33qkl7buyd.onion">Cryptostamps</a>
+      <pre><code>http://lgh3eosuqrrtvwx3s4nurujcqrm53ba5vqsbim5k5ntdpo33qkl7buyd.onion</code></pre>
+    </li>
+  </ul>
+  <li>
+    <h3>CRYPTOCURRENCY EXCHANGES</h3></li>
+  <ul>
+    <li>
+      <a href="http://hszyoqnysrl7lpyfms2o5xonhelz2qrz36zrogi2jhnzvpxdzbvzimqd.onion">Exch</a>
+      <pre><code>http://hszyoqnysrl7lpyfms2o5xonhelz2qrz36zrogi2jhnzvpxdzbvzimqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://vyzjtg3peh3rspo67i55pd644o4vh5ygggqhz25c7w3qwfqwuacifoyd.onion">Majestic Bank</a>
+      <pre><code>http://vyzjtg3peh3rspo67i55pd644o4vh5ygggqhz25c7w3qwfqwuacifoyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://coinokfc7xi42zoxp5l7c42zidr3nf6bvbhcevqqiey5d5q2h555mwid.onion">Coinomize</a>
+      <pre><code>http://coinokfc7xi42zoxp5l7c42zidr3nf6bvbhcevqqiey5d5q2h555mwid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://exchanger.fn2b4tg4nfo7lu67dg4txdv7nrvfqavhg3pxlqnrgpfo7jz4g6hxamid.onion">Infinity Exchanger</a>
+      <pre><code>http://exchanger.fn2b4tg4nfo7lu67dg4txdv7nrvfqavhg3pxlqnrgpfo7jz4g6hxamid.onion</code></pre>
+  </ul>
+  <li>
+    <h3>MARKETS AND SERVICES</h3></li>
+  <ul>
+    <li>
+      <pre><code>http://lockbit3753ekiocyo5epmpy6klmejchjtzddoekjlnt6mu3qh4de2id.onion</code></pre>
+      <a href="http://ares4mlk24n7jeekzvmagvv6o3kt6smr7v3vrcmcxwummtkniexx7qad.onion">Ares</a>
+      <pre><code>http://ares4mlk24n7jeekzvmagvv6o3kt6smr7v3vrcmcxwummtkniexx7qad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://kerberqtg7xpofsc3w47nvjd52sys6hqdejk3h7fz6kbqhyqrds3xgqd.onion">Kerberos</a>
+      <pre><code>http://kerberqtg7xpofsc3w47nvjd52sys6hqdejk3h7fz6kbqhyqrds3xgqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://bo4z2ekesxllebpqijubxklnkehoobeu5q7qjdqzfh3hxitwo5fatrad.onion">Nemesis Market</a>
+      <pre><code>http://bo4z2ekesxllebpqijubxklnkehoobeu5q7qjdqzfh3hxitwo5fatrad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://incognizudojrh3z47tfudcqkuwayp6aeeiufjkccgvvt4jrjcbq3gyd.onion">Incognito Market</a>
+      <pre><code>http://incognizudojrh3z47tfudcqkuwayp6aeeiufjkccgvvt4jrjcbq3gyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://bohemianli3oj427gmh7t7yrpkxuxh7zdjwofim74tdpgtx6tlbelfyd.onion">Bohemia</a>
+      <pre><code>http://bohemianli3oj427gmh7t7yrpkxuxh7zdjwofim74tdpgtx6tlbelfyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://guzjgkpodzshso2nohspxijzk5jgoaxzqioa7vzy6qdmwpz3hq4mwfid.onion">Bitpharma</a>
+      <pre><code>http://guzjgkpodzshso2nohspxijzk5jgoaxzqioa7vzy6qdmwpz3hq4mwfid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion">Abacus Market</a>
+      <pre><code>http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion">MGM Grand Market</a>
+      <pre><code>http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion">Dark Matter</a>
+      <pre><code>http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion">Flugsvamp 4.0 (Sweden)</a>
+      <pre><code>http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://mega5cl42slffqduo64dopju3xxnuxbbzycir6vi3gzvhwd2iyilerad.onion">Mega Market (Russia)</a>
+      <pre><code>http://mega5cl42slffqduo64dopju3xxnuxbbzycir6vi3gzvhwd2iyilerad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://hqfld5smkr4b4xrjcco7zotvoqhuuoehjdvoin755iytmpk4sm7cbwad.onion">Mixabit</a>
+      <pre><code>http://hqfld5smkr4b4xrjcco7zotvoqhuuoehjdvoin755iytmpk4sm7cbwad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://y22arit74fqnnc2pbieq3wqqvkfub6gnlegx3cl6thclos4f7ya7rvad.onion">Dark Mixer</a>
+      <pre><code>http://y22arit74fqnnc2pbieq3wqqvkfub6gnlegx3cl6thclos4f7ya7rvad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://mp3fpv6xbrwka4skqliiifoizghfbjy5uyu77wwnfruwub5s4hly2oid.onion">EasyCoin</a>
+      <pre><code>http://mp3fpv6xbrwka4skqliiifoizghfbjy5uyu77wwnfruwub5s4hly2oid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://zkj7mzglnrbvu3elepazau7ol26cmq7acryvsqxvh4sreoydhzin7zid.onion">Hackers for hire</a>
+      <pre><code>http://zkj7mzglnrbvu3elepazau7ol26cmq7acryvsqxvh4sreoydhzin7zid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://prjd5pmbug2cnfs67s3y65ods27vamswdaw2lnwf45ys3pjl55h2gwqd.onion">Hackers for hire</a>
+      <pre><code>http://prjd5pmbug2cnfs67s3y65ods27vamswdaw2lnwf45ys3pjl55h2gwqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://t43fsf65omvf7grt46wlt2eo5jbj3hafyvbdb7jtr2biyre5v24pebad.onion">EuroGuns</a>
+      <pre><code>http://t43fsf65omvf7grt46wlt2eo5jbj3hafyvbdb7jtr2biyre5v24pebad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://hyjgsnkanan2wsrksd53na4xigtxhlz57estwqtptzhpa53rxz53pqad.onion">EuroGuns</a>
+      <pre><code>http://hyjgsnkanan2wsrksd53na4xigtxhlz57estwqtptzhpa53rxz53pqad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://k6m3fagp4w4wspmdt23fldnwrmknse74gmxosswvaxf3ciasficpenad.onion">UkGunsAndAmmo</a>
+      <pre><code>http://k6m3fagp4w4wspmdt23fldnwrmknse74gmxosswvaxf3ciasficpenad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://onili244aue7jkvzn2bgaszcb7nznkpyihdhh7evflp3iskfq7vhlzid.onion">UkGunsAndAmmo</a>
+      <pre><code>http://onili244aue7jkvzn2bgaszcb7nznkpyihdhh7evflp3iskfq7vhlzid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://4pt4axrbg44wivonwz5hqac6ccuuqtysvuyzldd4cqox5vnogxb4koqd.onion">Archetyp</a>
+      <pre><code>http://4pt4axrbg44wivonwz5hqac6ccuuqtysvuyzldd4cqox5vnogxb4koqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://torzonqgq7icutzxe4pjpsftwk2tuj5lnbj2j3tmnwwuak6kurvpp3yd.onion">TorZon</a>
+      <pre><code>http://torzonqgq7icutzxe4pjpsftwk2tuj5lnbj2j3tmnwwuak6kurvpp3yd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://abacusxmi5bwqncyr3kbhqwpcl2dmzevla4rhi6ijekp7x2w5bg5yyqd.onion">Abacus</a>
+      <pre><code>http://abacusxmi5bwqncyr3kbhqwpcl2dmzevla4rhi6ijekp7x2w5bg5yyqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://citymtntdj32ztac3mendod2ld6sq2234u4pvsspxo4o5stk57ssz2qd.onion">City</a>
+      <pre><code>http://citymtntdj32ztac3mendod2ld6sq2234u4pvsspxo4o5stk57ssz2qd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://questxsxg2mdlkqeus2esdnsgxue4xwdrwq6vskothhx7xbusvwla7ad.onion">Quest</a>
+      <pre><code>http://questxsxg2mdlkqeus2esdnsgxue4xwdrwq6vskothhx7xbusvwla7ad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://6c5qav2hck3j4mctrcav4b6i6tp5hd2bgcpflnkre2xxum6lcliuxkad.onion">Cypher</a>
+      <pre><code>http://6c5qav2hck3j4mctrcav4b6i6tp5hd2bgcpflnkre2xxum6lcliuxkad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://blackpykv66cybipwjxda6c6mvk3uxfih736ljmzeultufyx5y7fohyd.onion">BlackPyramid</a>
+      <pre><code>http://blackpykv66cybipwjxda6c6mvk3uxfih736ljmzeultufyx5y7fohyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://hn2pawxhwytyhtexin3x65q2aza2q7zkhrybeujpsy2523r777cdxxad.onion">WeTheNorth</a>
+      <pre><code>http://hn2pawxhwytyhtexin3x65q2aza2q7zkhrybeujpsy2523r777cdxxad.onion</code></pre>
+  </ul>
+  <li>
+    <h3>LIBRARIES</h3></li>
+  <ul>
+    <li>
+      <a href="https://archive.org">Internet Archive</a>
+      <pre><code>https://archive.org</code></pre>
+    </li>
+    <li>
+      <a href="https://annas-archive.org">Anna's Archive</a>
+      <pre><code>https://annas-archive.org</code></pre>
+    </li>
+    <li>
+      <a href="https://t.me/zlibrary_official">Z-Library Official (Telegram)</a>
+      <pre><code>https://t.me/zlibrary_official</code></pre>
+    </li>
+    <li>
+      <a href="https://go-to-zlibrary.se/#desktop_app_tab"> Z-Library (APP)</a>
+      <pre><code>https://go-to-zlibrary.se/#desktop_app_tab</code></pre>
+    </li>
+    <li>
+      <a href="https://singlelogin.se">Z-Library (WEB)</a>
+      <pre><code>https://singlelogin.se</code></pre>
+    </li>
+    <li>
+      <a href="http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion"> Z-Library (ONION)</a>
+      <pre><code>http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="https://libgen.rs">Library Genesis (.rs alias domain)</a>
+      <pre><code>https://libgen.rs</code></pre>
+    </li>
+    <li>
+      <a href="https://libgen.is">Library Genesis (.is alias domain)</a>
+      <pre><code>https://libgen.is</code></pre>
+    </li>
+    <li>
+      <a href="https://libgen.st">Library Genesis (.st alias domain)</a>
+      <pre><code>https://libgen.st</code></pre>
+    </li>
+    <li>
+      <a href="https://wiki.mhut.org/software:libgen_desktop">Library Genesis (APP)</a>
+      <pre><code>https://wiki.mhut.org/software:libgen_desktop</code></pre>
+    </li>
+    <li>
+      <a href="http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion">Library Genesis (ONION)</a>
+      <pre><code>http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion">Imperial Library (ONION)</a>
+      <pre><code>http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion">Just Another Library (ONION)</a>
+      <pre><code>http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion">InfoCon (ONION)</a>
+      <pre><code>http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion</code></pre>
+    </li>
+  </ul>
+  <li>
+    <h3>NEWS AND BLOGS</h3></li>
+  <ul>
+    <li>
+      <a href="http://tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion">Tor Times</a>
+      <pre><code>http://tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://dark3i5wry7zl7hdpmidmaflve7cmxzhvhpoutrryb5vd44qc52tbhad.onion">DarkMatter</a>
+      <pre><code>http://dark3i5wry7zl7hdpmidmaflve7cmxzhvhpoutrryb5vd44qc52tbhad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion">DarkNetLive</a>
+      <pre><code>http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion">Flashlight</a>
+      <pre><code>http://ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion">Tape-News</a>
+      <pre><code>http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://ncidetfs7banpz2d7vpndev5somwoki5vwdpfty2k7javniujekit6ad.onion">NCIDE Task Force</a>
+      <pre><code>http://ncidetfs7banpz2d7vpndev5somwoki5vwdpfty2k7javniujekit6ad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://tcecdnp2fhyxlcrjoyc2eimdjosr65hweut6y7r2u6b5y75yuvbkvfyd.onion">National Police of the Netherlands</a>
+      <pre><code>http://tcecdnp2fhyxlcrjoyc2eimdjosr65hweut6y7r2u6b5y75yuvbkvfyd.onion</code></pre>
+  </ul>
+  <li>
+    <h3>CHANS</h3></li>
+  <ul>
+    <li>
+      <a href="http://4usoivrpy52lmc4mgn2h34cmfiltslesthr56yttv2pxudd3dapqciyd.onion">8Chan</a>
+      <pre><code>http://4usoivrpy52lmc4mgn2h34cmfiltslesthr56yttv2pxudd3dapqciyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion">9chan</a>
+      <pre><code>http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://dngtk6iydmpokbyyk3irqznceft3hze6q6rasrqlz46v7pq4klxnl4yd.onion">256Chan</a>
+      <pre><code>http://dngtk6iydmpokbyyk3irqznceft3hze6q6rasrqlz46v7pq4klxnl4yd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion">Nanochan</a>
+      <pre><code>http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://picochanwvqfa2xsrfzlul4x4aqtog2eljll5qnj5iagpbhx2vmfqnid.onion">Picochan</a>
+      <pre><code>http://picochanwvqfa2xsrfzlul4x4aqtog2eljll5qnj5iagpbhx2vmfqnid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://crghlabr45r5pqkgnbgehywk5nxutdks5iss7tabyux5psikqqjirryd.onion">zzzchan</a>
+      <pre><code>http://crghlabr45r5pqkgnbgehywk5nxutdks5iss7tabyux5psikqqjirryd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion">NeinChan</a>
+      <pre><code>http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion</code></pre>
+  </ul>
+  <li>
+    <h3>DOWNLOADS</h3></li>
+  <ul>
+    <li>
+      <a href="http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion">Archive.is</a>
+      <pre><code>http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://demonoidevmsgasmojajlhikwetsr4pxzw6xkjt3dgdv6nr5yxvsamid.onion">Demonoid</a>
+      <pre><code>http://demonoidevmsgasmojajlhikwetsr4pxzw6xkjt3dgdv6nr5yxvsamid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion">The Pirate Bay</a>
+      <pre><code>http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion">Torrent Galaxy</a>
+      <pre><code>http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion</code></pre>
+  </ul>
+  <li>
+    <h3>HOSTING AND DOMAINS</h3></li>
+  <ul>
+    <li>
+      <a href="http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion">Njalla</a>
+      <pre><code>http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion">Freedom Hosting</a>
+      <pre><code>http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion">Ablative</a>
+      <pre><code>http://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://dwebkjkovsjobzrb45dz6prnlifnapiyp2dba33vcmcsaikr2re4d5qd.onion">OnionLand</a>
+      <pre><code>http://dwebkjkovsjobzrb45dz6prnlifnapiyp2dba33vcmcsaikr2re4d5qd.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://privex3guvvasyer6pxz2fqcgy56auvw5egkir6ykwpptferdcb5toad.onion">Privex</a>
+      <pre><code>http://privex3guvvasyer6pxz2fqcgy56auvw5egkir6ykwpptferdcb5toad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion">Impreza</a>
+      <pre><code>http://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://spore64i5sofqlfz5gq2ju4msgzojjwifls7rok2cti624zyq3fcelad.onion">SporeStack</a>
+      <pre><code>http://spore64i5sofqlfz5gq2ju4msgzojjwifls7rok2cti624zyq3fcelad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion">Njalla</a>
+      <pre><code>http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion">Cloudflare Public DNS 1.1.1.1</a>
+      <pre><code>http://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion</code></pre>
+    </li>
+    <li>
+      <a href="http://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion">HARICA Certificate Authority</a>
+      <pre><code>http://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion</code></pre>
+  </ul>
+</ul>

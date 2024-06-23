@@ -1,0 +1,25 @@
+<!DOCTYPE NETSCAPE-BOOKMARK-FILE-1>
+<html>
+<head>
+  <title>Bookmarks</title>
+</head>
+<body>
+  <dl><p>
+    <dt><h3 add_date="1624363008" last_modified="1624363008">category 1</h3>
+    <dl><p>
+      <dt><a href="https://example.com/page1" add_date="1624363008">page 1</a>
+      <dt><a href="https://example.com/page2" add_date="1624363008">page 2</a>
+    </dl><p>
+    <dt><h3>category 2</h3>
+    <dl><p>
+      <dt><a href="https://example.com/page3">page 3</a>
+      <dt><a href="https://example.com/page4">page 4</a>
+    </dl><p>
+    <dt><h3>category 3</h3>
+    <dl><p>
+      <dt><a href="https://example.com/page5">page 5</a>
+      <dt><a href="https://example.com/page6">page 6</a>
+    </dl><p>
+  </dl><p>
+</body>
+</html>
