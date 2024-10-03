@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Comparison of Tails, Whonix, and Qubes</title>
+  <style>
+ /* Dracula Darker Theme */
+ body {
+     background-color: #21222c;
+     border: 40px solid #21222c;
+     margin: 0;
+     padding: 0 10px;
+     font-family: "Liberation Sans", "Myriad", "Bitstream Vera Sans", "Lucida Grande", "Luxi Sans", "Trebuchet MS", helvetica, verdana, arial, sans-serif;
+     line-height: 1.2em;
+     color: #f8f8f2;
+    /* Foreground color */
+}
+/* Container styles */
+ body > div.book, body > div.article, body > div.set, body > div.preface, body > div.chapter, body > div.section, body > div.appendix, body > div.part, div.sect1 {
+     margin-top: 0;
+     padding: 2em;
+     background-color: #282a36;
+    /* Container background */
+     margin: 40px auto 4em;
+     padding: 1px 40px 20px 30px;
+     color: #f8f8f2;
+    /* Container text */
+}
+ h1, h2, h3, h4, h5, h6 {
+     color: #bd93f9;
+    /* Headers */
+}
+ a {
+     color: #8be9fd;
+    /* Links */
+     text-decoration: none;
+}
+ a:hover, a:focus {
+     text-decoration: underline;
+}
+ p, ol, ul, blockquote, dl, dt, dd, pre, code, kbd, samp, var {
+     margin-bottom: 1em;
+}
+ b, strong {
+     font-weight: bold;
+     color: #ff79c6;
+    /* Bold elements */
+}
+ i, em {
+     font-style: italic;
+     color: #ff79c6;
+    /* Italic elements */
+}
+ pre, code, kbd, samp, tt {
+     font-family: 'Courier New', Courier, monospace;
+     background-color: #282a36;
+    /* Code block background */
+     border: 1px solid #44475a;
+    /* Code block border */
+     padding: 0.2em 0.4em;
+     border-radius: 3px;
+     color: #f8f8f2;
+    /* Code text color */
+}
+ img {
+     max-width: 100%;
+     height: auto;
+}
+ table {
+     width: 100%;
+     border-collapse: collapse;
+     margin-bottom: 1em;
+}
+ th, td {
+     border: 1px solid #44475a;
+    /* Table borders */
+     padding: 0.5em;
+}
+ thead {
+     background-color: #6272a4;
+    /* Table header background */
+     color: #f8f8f2;
+    /* Table header text */
+}
+ tfoot {
+     background-color: #282a36;
+    /* Table footer background */
+     color: #f8f8f2;
+    /* Table footer text */
+}
+ hr {
+     border: 0;
+     border-top: 1px solid #44475a;
+    /* Horizontal rule */
+     margin: 2em 0;
+}
+ blockquote {
+     border-left: 5px solid #bd93f9;
+    /* Blockquote left border */
+     padding-left: 1em;
+     color: #ff79c6;
+    /* Blockquote text */
+     background-color: #282a36;
+    /* Blockquote background */
+}
+ sup, sub {
+     font-size: 0.8em;
+     vertical-align: super;
+}
+ sub {
+     vertical-align: sub;
+}
+ ins {
+     background-color: #282a36;
+    /* Inserted text background */
+     text-decoration: none;
+}
+ del {
+     text-decoration: line-through;
+     color: #ff79c6;
+    /* Deleted text */
+}
+ s, strike {
+     text-decoration: line-through;
+}
+ q {
+     quotes: "“" "”" "‘" "’";
+}
+ ruby, rt, rp {
+     font-size: 0.9em;
+}
+ summary {
+     cursor: pointer;
+     color: #bd93f9;
+    /* Details summary text */
+     font-weight: bold;
+}
+ details {
+     margin-bottom: 1em;
+}
+ .container {
+     max-width: 800px;
+     margin: 0 auto;
+     padding: 1em;
+     background-color: #282a36;
+    /* Container background */
+     color: #f8f8f2;
+    /* Container text */
+}
+  </style>
+</head>
+<body>
+  <table>
+    <thead>
+      <tr>
+        <th>Feature</th>
+        <th>Tails</th>
+        <th>Whonix</th>
+        <th>Qubes OS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Main Use</strong></td>
+        <td>Live OS for anonymous browsing and communication</td>
+        <td>Secure and anonymous desktop environment</td>
+        <td>Security-focused desktop OS using virtualization</td>
+      </tr>
+      <tr>
+        <td><strong>Base System</strong></td>
+        <td>Debian-based</td>
+        <td>Debian-based</td>
+        <td>Fedora-based</td>
+      </tr>
+      <tr>
+        <td><strong>Installation</strong></td>
+        <td>Live USB/DVD</td>
+        <td>Virtual Machine (VM)</td>
+        <td>Installation on hardware</td>
+      </tr>
+      <tr>
+        <td><strong>Anonymity</strong></td>
+        <td>High, uses Tor network</td>
+        <td>High, uses Tor network</td>
+        <td>High, compartmentalizes activities using VMs</td>
+      </tr>
+      <tr>
+        <td><strong>Persistence</strong></td>
+        <td>Optional encrypted persistence</td>
+        <td>Persistent</td>
+        <td>Persistent</td>
+      </tr>
+      <tr>
+        <td><strong>Security Features</strong></td>
+        <td>Amnesic (does not leave traces), Tor</td>
+        <td>Tor, isolation of apps through VMs</td>
+        <td>VM isolation, Disposable VMs, Qubes firewall</td>
+      </tr>
+      <tr>
+        <td><strong>Usability</strong></td>
+        <td>User-friendly, designed for ease of use</td>
+        <td>Requires some technical knowledge</td>
+        <td>Advanced, requires technical knowledge</td>
+      </tr>
+      <tr>
+        <td><strong>Hardware Requirements</strong></td>
+        <td>Low, can run on most PCs</td>
+        <td>Moderate, requires a VM host</td>
+        <td>High, requires modern hardware with virtualization support</td>
+      </tr>
+      <tr>
+        <td><strong>Website</strong></td>
+        <td><a href="https://tails.net">tails.net</a></td>
+        <td><a href="https://www.whonix.org/">whonix.org</a></td>
+        <td><a href="https://www.qubes-os.org/">qubes-os.org</a></td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
