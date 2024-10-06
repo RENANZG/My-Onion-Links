@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-########################################################################
+#######################################################################
 # File Name    : tails_install_v2.sh
 # Description  : Download, verify and write Tails from Debian.
 # Dependencies : curl gpg grep find dosfstools coreutils bash-builtins
@@ -10,10 +10,10 @@
 #                sudo bash ~/Downloads/tails_install_v2.sh
 # Author       : Me and the bois
 # License      : Free of charge, no warranty
-# Last edited  : 2024-09-01
+# Last edited  : 2024-10-01
 # Based on     : https://tails.net/install/expert/index.en.html
 #                https://github.com/hellais/TAILS-OSX
-########################################################################
+#######################################################################
 
 # Variables
 TAILS_DATA_DIR="tails_data"
@@ -114,10 +114,12 @@ verify_tails_image() {
     exit 1
   fi
 
-  # Set the key as ultimately trusted - 5 – I trust fully (ultimate trust)
-  echo "trust" | gpg --no-default-keyring --keyring "$TAILS_DATA_DIR/tmp_keyring.pgp" --edit-key 58ACD84F
-  echo "5" | gpg --no-default-keyring --keyring "$TAILS_DATA_DIR/tmp_keyring.pgp" --edit-key 58ACD84F
-  echo "quit" | gpg --no-default-keyring --keyring "$TAILS_DATA_DIR/tmp_keyring.pgp" --edit-key 58ACD84F
+  # Set the key as ultimately trusted without interactive prompts
+  gpg --no-default-keyring --keyring "$TAILS_DATA_DIR/tmp_keyring.pgp" --batch --command-fd 0 <<EOF
+trust
+5
+save
+EOF
 
   echo -e "\nThe key is now set to ultimate trust."
 
@@ -129,6 +131,7 @@ verify_tails_image() {
     exit 1
   fi
 }
+
 
 # Function to write the Tails image to the target disk
 write_tails_image() {
