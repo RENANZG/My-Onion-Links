@@ -160,13 +160,14 @@
   <hr>
   <!-- ############################################################ -->
   
-  <p>Read <a href="https://tb-manual.torproject.org" target="_blank" rel="noopener noreferrer">Tor Browser User Manual</a> for information on how to use Tor. Consider secure systems in order of difficulty: <a href:"">Tails</a>, <a href:"">Whonix </a>and <a href:"">Qubes</a>.<p>
+  <p>Read <a href="https://tb-manual.torproject.org" target="_blank" rel="noopener noreferrer">Tor Browser User Manual</a> for information on how to use Tor. Consider using
+  secure systems in order of complexity:<a href="https://tails.net/">Tails</a>, <a href="https://www.whonix.org/">Whonix</a> and <a href="https://www.qubes-os.org/">Qubes</a>.
   
-  <p>Ready-to-import bookmarks: <a href:"https://github.com/RENANZG/My-Onion-Links/blob/main/03_DOCUMENTS/import_bookmarks_from_html.html">/03_DOCUMENTS/import_bookmarks_from_html.html</a></p>
+  <p>Ready-to-import bookmarks: <a href="https://github.com/RENANZG/My-Onion-Links/blob/main/03_DOCUMENTS/import_bookmarks_from_html.html">/03_DOCUMENTS/import_bookmarks_from_html.html</a></p>
 
-  <p>Tails easy install script from Debian or Ubuntu: <a href:"https://github.com/RENANZG/My-Onion-Links/blob/main/tails_install_v2.sh">tails_install_v2.sh</a></p>
+  <p>Tails easy install script from Debian or Ubuntu: <a href="https://github.com/RENANZG/My-Onion-Links/blob/main/tails_install_v2.sh">tails_install_v2.sh</a></p>
   
-  <p>Tails easy install script from Debian or Ubuntu: <a href:"https://github.com/RENANZG/My-Onion-Links/blob/main/tails_install_v1.sh">tails_install_v1.sh</a></p>
+  <p>Tails easy install script from Debian or Ubuntu: <a href="https://github.com/RENANZG/My-Onion-Links/blob/main/tails_install_v1.sh">tails_install_v1.sh</a></p>
 
   <hr>
   <!-- ############################################################ -->
@@ -222,6 +223,16 @@
   <a href="https://youtube.com/watch?v=KdbRU1JbcEA">
     <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKdbRU1JbcEA"
     alt="World's Most SECURE Data Center" title="World's Most SECURE Data Center">
+  </a>
+  <br>
+
+  <a href="https://www.youtube.com/watch?v=ggGmxDq2HBA">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DggGmxDq2HBA"
+   alt=" Behind the Hacks: The Origins of Anonymous | Cyberwar " title=" Behind the Hacks: The Origins of Anonymous | Cyberwar "/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=TLPHmHPaCiQ">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTLPHmHPaCiQ"
+   alt=" Where People Go When They Want to Hack You " title=" Where People Go When They Want to Hack You "/>
   </a>
   <br>
 

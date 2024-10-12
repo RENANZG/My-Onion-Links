@@ -23,7 +23,7 @@
    </thead>
    <tbody>
     <tr>
-     <td><strong>Tor</strong></td>
+     <td><a href="https://www.torproject.org/" target="_blank" rel="noreferrer"><strong>Tor</strong></a></td>
      <td>Web browsing, access to .onion sites</td>
      <td>High</td>
      <td>Moderate</td>
@@ -35,7 +35,7 @@
      <td>Free Software License</td>
     </tr>
     <tr>
-     <td><strong>I2P</strong></td>
+     <td><a href="https://geti2p.net/" target="_blank" rel="noreferrer"><strong>I2P</strong></a></td>
      <td>Anonymous web services</td>
      <td>High</td>
      <td>Moderate</td>
@@ -47,7 +47,7 @@
      <td>GNU General Public License (GPL)</td>
     </tr>
     <tr>
-     <td><strong>GNUnet</strong></td>
+     <td><a href="https://gnunet.org/" target="_blank" rel="noreferrer"><strong>GNUnet</strong></a></td>
      <td>Secure networking, file sharing</td>
      <td>High</td>
      <td>Moderate</td>
@@ -59,7 +59,7 @@
      <td>GNU Affero General Public License (AGPL)</td>
     </tr>
     <tr>
-     <td><strong>Nym</strong></td>
+     <td><a href="https://nymtech.net/" target="_blank" rel="noreferrer"><strong>Nym</strong></a></td>
      <td>Privacy-enhanced network services</td>
      <td>High</td>
      <td>Moderate</td>
@@ -71,7 +71,7 @@
      <td>Commercial License</td>
     </tr>
     <tr>
-     <td><strong>Yggdrasil</strong></td>
+     <td><a href="https://yggdrasil-network.github.io/" target="_blank" rel="noreferrer"><strong>Yggdrasil</strong></a></td>
      <td>End-to-end encrypted networking</td>
      <td>High</td>
      <td>Moderate</td>
@@ -83,7 +83,7 @@
      <td>MIT License</td>
     </tr>
     <tr>
-     <td><strong>Reticulum</strong></td>
+     <td><a href="https://reticulum.network/" target="_blank" rel="noreferrer"><strong>Reticulum</strong></a></td>
      <td>Secure decentralized networking</td>
      <td>High</td>
      <td>Variable</td>
@@ -95,7 +95,7 @@
      <td>GNU General Public License (GPL)</td>
     </tr>
     <tr>
-     <td><strong>Freenet/Hyphanet</strong></td>
+     <td><a href="https://freenetproject.org/" target="_blank" rel="noreferrer"><strong>FreeNet/Hyphanet</strong></a></td>
      <td>Data sharing, decentralized web</td>
      <td>High</td>
      <td>Slow</td>
@@ -107,7 +107,7 @@
      <td>GNU General Public License (GPL)</td>
     </tr>
     <tr>
-     <td><strong>ZeroNet</strong></td>
+     <td><a href="https://zeronet.io/" target="_blank" rel="noreferrer"><strong>ZeroNet</strong></a></td>
      <td>Decentralized web services</td>
      <td>Moderate</td>
      <td>High</td>
@@ -119,7 +119,7 @@
      <td>Public Domain</td>
     </tr>
     <tr>
-     <td><strong>Nostr</strong></td>
+     <td><a href="https://nostr.com/" target="_blank" rel="noreferrer"><strong>Nostr</strong></a></td>
      <td>Decentralized social networking</td>
      <td>Moderate</td>
      <td>High</td>
@@ -131,7 +131,7 @@
      <td>Open License</td>
     </tr>
     <tr>
-     <td><strong>Hyperboria</strong></td>
+     <td><a href="https://hyperboria.net/" target="_blank" rel="noreferrer"><strong>Hyperboria</strong></a></td>
      <td>Secure networking, decentralized services</td>
      <td>Moderate</td>
      <td>Moderate</td>
@@ -143,7 +143,7 @@
      <td>MIT License</td>
     </tr>
     <tr>
-     <td><strong>Loki</strong></td>
+     <td><a href="https://loki.network/" target="_blank" rel="noreferrer"><strong>Loki</strong></a></td>
      <td>Private messaging, browsing</td>
      <td>High</td>
      <td>Moderate</td>
@@ -155,7 +155,7 @@
      <td>Commercial License</td>
     </tr>
     <tr>
-     <td><strong>IPFS</strong></td>
+     <td><a href="https://ipfs.tech/" target="_blank" rel="noreferrer"><strong>IPFS</strong></a></td>
      <td>Decentralized storage</td>
      <td>Low</td>
      <td>High</td>
@@ -167,7 +167,7 @@
      <td>MIT License</td>
     </tr>
     <tr>
-     <td><strong>Commotion</strong></td>
+     <td><a href="https://commotionwireless.net/" target="_blank" rel="noreferrer"><strong>Commotion</strong></a></td>
      <td>Mesh networking for local communication</td>
      <td>Low</td>
      <td>Variable</td>
@@ -180,6 +180,7 @@
     </tr>
    </tbody>
   </table>
+
   <h4>Networking Terms</h4>
   <ul>
    <li>
@@ -203,5 +204,5 @@
     configurations and decisions.
    </li>
   </ul>
- </body>
+</body>
 </html>

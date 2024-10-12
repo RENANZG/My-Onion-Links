@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Anon Networks Comparison Table</title>
-  <style>
+<title>Anon Networks Comparison Table</title>
+<style>
  /* Dracula Darker Theme */
  body {
      background-color: #21222c;
@@ -13,28 +13,24 @@
      padding: 0 10px;
      font-family: "Liberation Sans", "Myriad", "Bitstream Vera Sans", "Lucida Grande", "Luxi Sans", "Trebuchet MS", helvetica, verdana, arial, sans-serif;
      line-height: 1.2em;
-     color: #f8f8f2;
-    /* Foreground color */
+     color: #f8f8f2; /* Foreground color */
 }
 /* Container styles */
  body > div.book, body > div.article, body > div.set, body > div.preface, body > div.chapter, body > div.section, body > div.appendix, body > div.part, div.sect1 {
      margin-top: 0;
      padding: 2em;
-     background-color: #282a36;
-    /* Container background */
+     background-color: #282a36; /* Container background */
      margin: 40px auto 4em;
      padding: 1px 40px 20px 30px;
-     color: #f8f8f2;
-    /* Container text */
+     color: #f8f8f2; /* Container text */
 }
  h1, h2, h3, h4, h5, h6 {
-     color: #bd93f9;
-    /* Headers */
+     color: #bd93f9; /* Headers */
 }
  a {
-     color: #8be9fd;
-    /* Links */
+     color: #ff79c6; /* Links */
      text-decoration: none;
+     font-weight: bold;
 }
  a:hover, a:focus {
      text-decoration: underline;
@@ -43,25 +39,20 @@
      margin-bottom: 1em;
 }
  b, strong {
-     font-weight: bold;
+     font-weight: bold; /* Bold elements */
      color: #ff79c6;
-    /* Bold elements */
 }
  i, em {
      font-style: italic;
-     color: #ff79c6;
-    /* Italic elements */
+     color: #ff79c6; /* Italic elements */
 }
  pre, code, kbd, samp, tt {
      font-family: 'Courier New', Courier, monospace;
-     background-color: #282a36;
-    /* Code block background */
-     border: 1px solid #44475a;
-    /* Code block border */
+     background-color: #282a36; /* Code block background */
+     border: 1px solid #44475a; /* Code block border */
      padding: 0.2em 0.4em;
      border-radius: 3px;
-     color: #f8f8f2;
-    /* Code text color */
+     color: #f8f8f2; /* Code text color */
 }
  img {
      max-width: 100%;
@@ -73,36 +64,27 @@
      margin-bottom: 1em;
 }
  th, td {
-     border: 1px solid #44475a;
-    /* Table borders */
+     border: 1px solid #44475a; /* Table borders */
      padding: 0.5em;
 }
  thead {
-     background-color: #6272a4;
-    /* Table header background */
-     color: #f8f8f2;
-    /* Table header text */
+     background-color: #6272a4; /* Table header background */
+     color: #f8f8f2; /* Table header text */
 }
  tfoot {
-     background-color: #282a36;
-    /* Table footer background */
-     color: #f8f8f2;
-    /* Table footer text */
+     background-color: #282a36; /* Table footer background */
+     color: #f8f8f2; /* Table footer text */
 }
  hr {
      border: 0;
-     border-top: 1px solid #44475a;
-    /* Horizontal rule */
+     border-top: 1px solid #44475a; /* Horizontal rule */
      margin: 2em 0;
 }
  blockquote {
-     border-left: 5px solid #bd93f9;
-    /* Blockquote left border */
+     border-left: 5px solid #bd93f9; /* Blockquote left border */
      padding-left: 1em;
-     color: #ff79c6;
-    /* Blockquote text */
-     background-color: #282a36;
-    /* Blockquote background */
+     color: #ff79c6; /* Blockquote text */
+     background-color: #282a36; /* Blockquote background */
 }
  sup, sub {
      font-size: 0.8em;
@@ -112,14 +94,12 @@
      vertical-align: sub;
 }
  ins {
-     background-color: #282a36;
-    /* Inserted text background */
+     background-color: #282a36; /* Inserted text background */
      text-decoration: none;
 }
  del {
      text-decoration: line-through;
-     color: #ff79c6;
-    /* Deleted text */
+     color: #ff79c6; /* Deleted text */
 }
  s, strike {
      text-decoration: line-through;
@@ -132,8 +112,7 @@
 }
  summary {
      cursor: pointer;
-     color: #bd93f9;
-    /* Details summary text */
+     color: #bd93f9; /* Details summary text */
      font-weight: bold;
 }
  details {
@@ -143,12 +122,10 @@
      max-width: 800px;
      margin: 0 auto;
      padding: 1em;
-     background-color: #282a36;
-    /* Container background */
-     color: #f8f8f2;
-    /* Container text */
+     background-color: #282a36; /* Container background */
+     color: #f8f8f2; /* Container text */
 }
-  </style>
+</style>
 </head>
 <body>
   <table border="1">
@@ -168,7 +145,7 @@
    </thead>
    <tbody>
     <tr>
-     <td><strong>Tor</strong></td>
+     <td><a href="https://www.torproject.org/" target="_blank" rel="noreferrer"><strong>Tor</strong></a></td>
      <td>Web browsing, access to .onion sites</td>
      <td>High</td>
      <td>Moderate</td>
@@ -180,7 +157,7 @@
      <td>Free Software License</td>
     </tr>
     <tr>
-     <td><strong>I2P</strong></td>
+     <td><a href="https://geti2p.net/" target="_blank" rel="noreferrer"><strong>I2P</strong></a></td>
      <td>Anonymous web services</td>
      <td>High</td>
      <td>Moderate</td>
@@ -192,7 +169,7 @@
      <td>GNU General Public License (GPL)</td>
     </tr>
     <tr>
-     <td><strong>GNUnet</strong></td>
+     <td><a href="https://gnunet.org/" target="_blank" rel="noreferrer"><strong>GNUnet</strong></a></td>
      <td>Secure networking, file sharing</td>
      <td>High</td>
      <td>Moderate</td>
@@ -204,7 +181,7 @@
      <td>GNU Affero General Public License (AGPL)</td>
     </tr>
     <tr>
-     <td><strong>Nym</strong></td>
+     <td><a href="https://nymtech.net/" target="_blank" rel="noreferrer"><strong>Nym</strong></a></td>
      <td>Privacy-enhanced network services</td>
      <td>High</td>
      <td>Moderate</td>
@@ -216,7 +193,7 @@
      <td>Commercial License</td>
     </tr>
     <tr>
-     <td><strong>Yggdrasil</strong></td>
+     <td><a href="https://yggdrasil-network.github.io/" target="_blank" rel="noreferrer"><strong>Yggdrasil</strong></a></td>
      <td>End-to-end encrypted networking</td>
      <td>High</td>
      <td>Moderate</td>
@@ -228,7 +205,7 @@
      <td>MIT License</td>
     </tr>
     <tr>
-     <td><strong>Reticulum</strong></td>
+     <td><a href="https://reticulum.network/" target="_blank" rel="noreferrer"><strong>Reticulum</strong></a></td>
      <td>Secure decentralized networking</td>
      <td>High</td>
      <td>Variable</td>
@@ -240,7 +217,7 @@
      <td>GNU General Public License (GPL)</td>
     </tr>
     <tr>
-     <td><strong>Freenet/Hyphanet</strong></td>
+     <td><a href="https://freenetproject.org/" target="_blank" rel="noreferrer"><strong>FreeNet/Hyphanet</strong></a></td>
      <td>Data sharing, decentralized web</td>
      <td>High</td>
      <td>Slow</td>
@@ -252,7 +229,7 @@
      <td>GNU General Public License (GPL)</td>
     </tr>
     <tr>
-     <td><strong>ZeroNet</strong></td>
+     <td><a href="https://zeronet.io/" target="_blank" rel="noreferrer"><strong>ZeroNet</strong></a></td>
      <td>Decentralized web services</td>
      <td>Moderate</td>
      <td>High</td>
@@ -264,7 +241,7 @@
      <td>Public Domain</td>
     </tr>
     <tr>
-     <td><strong>Nostr</strong></td>
+     <td><a href="https://nostr.com/" target="_blank" rel="noreferrer"><strong>Nostr</strong></a></td>
      <td>Decentralized social networking</td>
      <td>Moderate</td>
      <td>High</td>
@@ -276,7 +253,7 @@
      <td>Open License</td>
     </tr>
     <tr>
-     <td><strong>Hyperboria</strong></td>
+     <td><a href="https://hyperboria.net/" target="_blank" rel="noreferrer"><strong>Hyperboria</strong></a></td>
      <td>Secure networking, decentralized services</td>
      <td>Moderate</td>
      <td>Moderate</td>
@@ -288,7 +265,7 @@
      <td>MIT License</td>
     </tr>
     <tr>
-     <td><strong>Loki</strong></td>
+     <td><a href="https://loki.network/" target="_blank" rel="noreferrer"><strong>Loki</strong></a></td>
      <td>Private messaging, browsing</td>
      <td>High</td>
      <td>Moderate</td>
@@ -300,7 +277,7 @@
      <td>Commercial License</td>
     </tr>
     <tr>
-     <td><strong>IPFS</strong></td>
+     <td><a href="https://ipfs.tech/" target="_blank" rel="noreferrer"><strong>IPFS</strong></a></td>
      <td>Decentralized storage</td>
      <td>Low</td>
      <td>High</td>
@@ -312,7 +289,7 @@
      <td>MIT License</td>
     </tr>
     <tr>
-     <td><strong>Commotion</strong></td>
+     <td><a href="https://commotionwireless.net/" target="_blank" rel="noreferrer"><strong>Commotion</strong></a></td>
      <td>Mesh networking for local communication</td>
      <td>Low</td>
      <td>Variable</td>
@@ -325,6 +302,7 @@
     </tr>
    </tbody>
   </table>
+
   <h4>Networking Terms</h4>
   <ul>
    <li>
@@ -347,6 +325,6 @@
     <strong>Router Consensus:</strong> Agreement among routers on network
     configurations and decisions.
    </li>
-  </ul>
- </body>
+</ul>
+</body>
 </html>
