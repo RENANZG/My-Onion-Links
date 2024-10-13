@@ -152,10 +152,7 @@
   <hr>
   <!-- ############################################################ -->
 
-  <p align="center"><img src=".data/1.png" alt="1" title="1"></p>
-  <p align="center"><img src=".data/2.png" alt="2" title="2"></p>
-  <p align="center"><img src=".data/3.png" alt="3" title="3"></p>
-  <p align="center"><img src=".data/5.png" alt="5" title="5"></p>
+  <p align="center"><img src=".data/8.png" alt="1" title="1"></p>
   
   <hr>
   <!-- ############################################################ -->
