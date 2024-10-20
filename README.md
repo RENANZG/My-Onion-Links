@@ -187,6 +187,9 @@
     alt="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor"
     title="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor">
   </a>
+  <a href="https://www.youtube.com/watch?v=WkphgF6Hn4w">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWkphgF6Hn4w" alt="How Monero Users Get Traced (RUN YOUR OWN NODE!)" title="How Monero Users Get Traced (RUN YOUR OWN NODE!)"/>
+</a>
   <a href="https://youtube.com/watch?v=47zJPU0VHSQ">
     <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D47zJPU0VHSQ"
     alt="Cyber Security: Why Is This (Still) So Hard? General Michael V. Hayden, former Director of the NSA and CIA"
@@ -531,10 +534,18 @@
   <br>
 
   <p>LightEater Demo: Stealing GPG keys/emails in Tails via remote firmware
-    infection</p>
-
-  <a href="https://youtube.com/watch?v=sNYsfUNegEA">https://youtube.com/watch?v=sNYsfUNegEA</a>
+    infection (2015)</p>
+  
+  <a href="https://youtube.com/watch?v=sNYsfUNegEA">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutube.com%2Fwatch%3Fv%3DsNYsfUNegEA" alt="LightEater Demo: Stealing GPG keys/emails in Tails via remote firmware infection (2015)" title="LightEater Demo: Stealing GPG keys/emails in Tails via remote firmware infection (2015)"/>
+</a>
   <br>
+  
+  <p>Binarly REsearch Team - Leaked Platform Key can be used to bypass Secure Boot on Linux (2024)</p>
+  
+  <a href="https://www.youtube.com/watch?v=CveWt3gFQTE">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCveWt3gFQTE" alt="Binarly REsearch Team - Leaked Platform Key can be used to bypass Secure Boot on Linux (2024)" title=" Binarly REsearch Team - Leaked Platform Key can be used to bypass Secure Boot on Linux (2024)"/>
+</a>
 
   <hr>
   <br>
