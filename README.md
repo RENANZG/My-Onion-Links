@@ -167,9 +167,11 @@
   </li>
 </ul>
 
+  <p>If you wish, send improvements to: <a href="https://github.com/RENANZG/My-Onion-Links/discussions/2">My-Onion-Links Discussions</a></p>
+
   <h4>Bookmarks</h4>
 
-  <p>Ready-to-import bookmarks: <a href="https://github.com/RENANZG/My-Onion-Links/blob/main/03_DOCUMENTS/Import_Bookmarks_from_HTML.html">/03_DOCUMENTS/Import_Bookmarks_from_HTML.html</a></p>
+  <p>Ready-to-import bookmarks: <a href="https://github.com/RENANZG/My-Onion-Links/blob/main/Import_Bookmarks_from_HTML.html">Import_Bookmarks_from_HTML.html</a></p>
 
   <hr>
   <!-- ############################################################ -->
@@ -590,15 +592,15 @@
       <h3>GENERAL</h3></li>
     <ul>
       <li>
-        <a href="http://kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion">Invidious YouTube</a>
-        <pre><code>http://kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion</code></pre>
+        <a href="facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion">Facebook Official</a>
+        <pre><code>facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion</code></pre>
       </li>
       <li>
-        <a href="http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion">Facebook</a>
-        <pre><code>http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion</code></pre>
+        <a href="http://https://docs.invidious.io/instances/.onion">Invidious (YouTube) (Check the active instances)</a>
+        <pre><code>https://docs.invidious.io/instances/</code></pre>
       </li>
       <li>
-        <a href="https://github.com/zedeus/nitter/wiki/Instances">Nitter (Check active Twitter instances)</a>
+        <a href="https://github.com/zedeus/nitter/wiki/Instances">Nitter (Check the active instances)</a>
         <pre><code>https://github.com/zedeus/nitter/wiki/Instances</code></pre>
       </li>
       <li>
@@ -614,12 +616,12 @@
         <pre><code>http://libreeunomyly6ot7kspglmbd5cvlkogib6rozy43r2glatc6rmwauqd.onion</code></pre>
       </li>
       <li>
-        <a href="http://envoyyvazgz2wbkq65md7dcqsgmujmgksowhx2446yep7tgnpfvlxbqd.onion">Envoy</a>
-        <pre><code>http://envoyyvazgz2wbkq65md7dcqsgmujmgksowhx2446yep7tgnpfvlxbqd.onion</code></pre>
+        <a href="https://incognite.io">Libre Forum (Check the active instances)</a>
+        <pre><code>https://incognite.io</code></pre>
       </li>
       <li>
-        <a href="http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion">Endchan</a>
-        <pre><code>http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion</code></pre>
+        <a href="http://endchancxfbnrfgauuxlztwlckytq7rgeo5v6pc2zd4nyqo3khfam4ad.onion/">Endchan</a>
+        <pre><code>http://endchancxfbnrfgauuxlztwlckytq7rgeo5v6pc2zd4nyqo3khfam4ad.onion/</code></pre>
       </li>
       <li>
         <a href="http://ho2hua2hfduv6f7hcbzdj2e6qdn4szgyy2jjnx545v4z3epq7uyrscid.onion">Satanic Ceremony</a>
@@ -674,7 +676,7 @@
         <pre><code>http://v3pastedc5jeqahtq77gvu3vz222bcqhlfubfunzjzqedg6jdqqlvgqd.onion</code></pre>
       </li>
       <li>
-        <a href="http://torpastezr7464pevuvdjisbvaf4yqi4n7sgz7lkwgqwxznwy5duj4ad.onion">TorPaste</a>
+        <a href="http://torpastezr7464pevuvdjisbvaf4yhttp://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onionqi4n7sgz7lkwgqwxznwy5duj4ad.onion">TorPaste</a>
         <pre><code>http://torpastezr7464pevuvdjisbvaf4yqi4n7sgz7lkwgqwxznwy5duj4ad.onion</code></pre>
       </li>
       <li>
@@ -1557,8 +1559,8 @@
 <h5>Cybercrime Reports and Analysis</h5>
 <ul>
     <li><a href="https://youtube.com/@DoingFedTime" target="_blank" rel="noopener noreferrer">DoingFedTime</a></li>
-    <li><a href="https://youtube.com/@mentalOutlaw" target="_blank" rel="noopener noreferrer">https://youtube.com/@mentalOutlaw</a></li>
-    <li><a href="https://youtube.com/@Seytonic" target="_blank" rel="noopener noreferrer">https://youtube.com/@Seytonic</a></li>
+    <li><a href="https://youtube.com/@mentalOutlaw" target="_blank" rel="noopener noreferrer">@mentalOutlaw</a></li>
+    <li><a href="https://youtube.com/@Seytonic" target="_blank" rel="noopener noreferrer">@Seytonic</a></li>
     <li><a href="https://cert.europa.eu/publications/threat-intelligence/2023" target="_blank" rel="noopener noreferrer">CERT-EU</a></li>
     <li><a href="https://www.frontex.europa.eu/" target="_blank" rel="noopener noreferrer">Frontex EU</a></li>
     <li><a href="https://www.coe.int/en/web/cybercrime/dark-web" target="_blank" rel="noopener noreferrer">Council of Europe Report</a></li>

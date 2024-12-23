@@ -6,6 +6,9 @@
 <title>Comparison of Tails, Whonix, and Qubes</title>
 </head>
 <body>
+
+ <p>For detailed comparison see: <a href="https://www.whonix.org/wiki/Comparison_with_Others">Whonix: Anonymity Operating System Comparison - Whonix vs Tails vs Tor Browser Bundle</a>.</p>
+
   <table border="1">
     <thead>
       <tr>

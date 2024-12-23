@@ -1,13 +1,22 @@
+# Bugs to fix:
+# The script works to download all the items needed to manually perform
+# the check and write operation, but the automatic “piping” for Gpg4win
+# to check in cli mode and Balena's automatic opening are not working.
+# It should also be noted that Balena treats the iso as an MBR and
+# therefore only accepts legacy boot mode in the BIOS.
+
 ########################################################################
-# BETA ! BETA ! BETA ! Needs improvement.
 # File Name    : tails_install.ps1
 # Description  : This script downloads, checks, and writes Tails from a
 #                Windows system to a selected USB device. It includes
 #                the installation of BalenaEtcher and Gpg4win.
-# Dependencies : PowerShell
-# Usage        : • In PowerShell, set execution policy:
-#                  Set-ExecutionPolicy Bypass -Scope Process -Force
-#                • In PowerShell, execute according to your folder:
+# Dependencies : PowerShell, Gpg4win, BalenaEtcher Portable
+# Usage        : • Open PowerShell with administrative privileges:
+#                   - Right-click on the Start menu, and select
+#                      'Windows PowerShell (Admin)'
+#                • In PowerShell, set the execution policy typing
+#                   Set-ExecutionPolicy Bypass -Scope Process -Force
+#                • Run the script from the folder where you downloaded
 #                  C:\Users\User\Downloads\tails_install.ps1
 # Author       : Me and the bois
 # License      : Free of charge, no warranty
