@@ -1,0 +1,25 @@
+<!DOCTYPE NETSCAPE-BOOKMARK-FILE-1>
+<html>
+<head>
+  <title>Bookmarks</title>
+</head>
+<body>
+  <dl><p>
+    <dt><h3>category 1</h3></dt>
+    <dl><p>
+      <dt><a href="https://example.com/page1">page 1</a></dt>
+      <dt><a href="https://example.com/page2">page 2</a></dt>
+    </dl><p>
+    <dt><h3>category 2</h3></dt>
+    <dl><p>
+      <dt><a href="https://example.com/page3">page 3</a></dt>
+      <dt><a href="https://example.com/page4">page 4</a></dt>
+    </dl><p>
+    <dt><h3>category 3</h3></dt>
+    <dl><p>
+      <dt><a href="https://example.com/page5">page 5</a></dt>
+      <dt><a href="https://example.com/page6">page 6</a></dt>
+    </dl><p>
+  </dl><p>
+</body>
+</html>
