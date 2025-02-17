@@ -1,0 +1,28 @@
+Neil Armstrong, First Man: The Life of Neil A. Armstrong (2005):
+
+"Pilots take no special joy in walking. Pilots like flying. Pilots generally take pride in a good landing, not in getting out of the vehicle. But getting out and taking that first step on the moon, that was something altogether different. That was something we collectively had decided to do as a nation, and something we could be proud of. But it was not just about stepping on the moon. It was the product of tens of thousands of people learning from years of challenges, mistakes, and small victories. Every failed test, every correction, every recalculation was part of the story of that single step. And in the end, we learned that nothing truly worth achieving comes easily, but through incremental progress and the lessons we gather along the way."
+
+Dwight D. Eisenhower, Crusade in Europe (1948):
+
+"In preparing for battle, I have always found that plans are useless, but planning is indispensable. During the campaign in Europe, particularly in the days leading up to D-Day, we saw the inevitable result of this truth. Our planners spent months studying the terrain, logistics, and enemy forces, but once the battle began, everything changed. Communications were disrupted, plans went awry, and the weather refused to cooperate. Yet it was the act of planning—the deep understanding of our goals, the contingency work, the detailed study of our strengths and weaknesses—that allowed us to adapt to the changing circumstances. We succeeded not because we followed a perfect plan, but because we were prepared for the imperfect reality of war."
+
+Gene Kranz, Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond (2000):
+
+"Spaceflight will never tolerate carelessness, incapacity, and neglect. Somewhere, somehow, we screwed up. It could have been in design, in build, or in test. Whatever it was, we should have caught it. We were too gung-ho about the schedule and we locked out all of the problems we saw each day in our work. Every element in the program was in trouble, and so were we. The simulators weren’t working, Mission Control was behind in virtually every area, and the flight and test procedures changed daily. Nothing we did had any shelf life. Not one of us stood up and said, 'Damn it, stop!' I don’t know what the Thompson committee will find as the cause, but I know what I find. We are the cause! We were not ready! We did not do our job. We were rolling the dice, hoping that things would come together by launch day, when in our hearts we knew it would take a miracle. We were pushing the schedule and betting that the Cape would slip before we did."
+
+T.E. Lawrence, Seven Pillars of Wisdom (1926):
+
+"The enduring lesson of the Arab Revolt was that the strength of a movement is not in the firepower of its army, but in the support of its people. We learned early that guerrilla tactics—striking suddenly and fading into the landscape—were far more effective than traditional warfare. We could not hope to outgun the Turks, but we could outthink them, outmaneuver them, using the vastness of the desert to our advantage. And in doing so, we learned that a great cause, shared by the many, was our greatest weapon. This is the essence of irregular warfare: the enemy cannot defeat a people united in their will to be free."
+
+Richard P. Feynman, What Do You Care What Other People Think? (1988):
+
+"For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled. We learned this in the most tragic way possible during the investigation of the Challenger disaster. The O-rings, which were known to have flaws in cold weather, failed in the freezing temperatures of that January morning. But those warnings had been downplayed, ignored for the sake of keeping the mission on track. We learned that no matter how much we want things to go smoothly, we cannot ignore the facts that science presents us. The failure was not just technical; it was human—a failure to heed the lessons of nature, and a failure to accept that the truth, no matter how inconvenient, is always the most important guide."
+
+William Manchester, Goodbye, Darkness: A Memoir of the Pacific War (1980):
+
+"War is, above all, an exercise in learning. You enter the conflict with certain ideas, but the reality of the battlefield teaches you otherwise. In the Pacific, we learned that no amount of planning could prepare us for the brutality of island warfare. The lessons came hard and fast. We learned to respect the enemy’s tenacity and to adapt to the unforgiving terrain. We learned how to fight not just with weapons, but with our wills, battling exhaustion, fear, and despair. Each campaign, each battle, taught us something new, and the men who survived did so not by luck, but by learning quickly, improvising, and supporting one another in ways no manual could ever fully teach."
+
+Admiral William H. McRaven, Sea Stories: My Life in Special Operations (2019):
+
+"One of the greatest lessons I learned during my years in the SEALs came during Hell Week, where failure looms large over every man. We were cold, wet, and exhausted, but what became clear was that it wasn't physical toughness that got you through the grueling tests. It was mental resilience. We learned to dig deep into reserves we didn’t know we had, to ignore the nagging voice that told us to quit. The instructors had taught us that the most important skill was the ability to keep going when everything in your body screamed to stop. What I took away from Hell Week, and what I would apply for the rest of my career, was that mental fortitude is the key to survival. You can always learn to push beyond your perceived limits."
+
