@@ -11,7 +11,7 @@
 #                  sudo bash ~/Downloads/tails_install.sh
 # Author       : Me and the bois
 # License      : Free of charge, no warranty
-# Last edited  : 2024-11-09
+# Last edited  : 2025-03-04
 # Reference    : https://tails.net/install/expert/index.en.html
 #######################################################################
 
@@ -71,21 +71,38 @@ download_tails_image() {
   echo -e "\n[+] Download of Tails image completed.\n"
 }
 
-# Function to trust and verify Tails
+# Function to verify integrity and trust Tails
 verify_tails_image() {
 
-  echo -e "\n[+] Checking the integrity and authenticity of the Tails image..."
+  echo -e "\n[+] Checking the integrity of the Tails image...\n"
 
   # Download the signing key and signature
   curl --retry 5 --retry-delay 10 --max-time 3600 -L -C - -o "$TAILS_DATA_DIR/tails-signing.key" "$TAILS_KEY_URL"
   curl --retry 5 --retry-delay 10 --max-time 3600 -L -C - -o "$TAILS_DATA_DIR/tails.img.sig" "$TAILS_SIG_URL"
 
-  # Import and verify the Tails developer key
+  # Import the Tails developer key
   gpg --no-default-keyring --keyring "$TAILS_DATA_DIR/tmp_keyring.pgp" --import "$TAILS_DATA_DIR/tails-signing.key"
 
-  # Verify that the key was imported correctly
+  # Verify the image signature (integrity check)
+  if gpg --no-default-keyring --keyring "$TAILS_DATA_DIR/tmp_keyring.pgp" --verify "$TAILS_DATA_DIR/tails.img.sig" "$TAILS_DATA_DIR/tails.img" > /dev/null 2>&1; then
+
+    echo -e "\n[+] The .img file is authentic and has not been tampered with."
+
+  else
+    echo -e "\nERROR! The image does not seem to be signed by the Tails key. Something is fishy!"
+    exit 1
+  fi
+
+  echo -e "\n[+] Checking the authenticity of the Tails developer key...\n"
+
+  # Refresh keys to ensure we have the latest version
+  gpg --no-default-keyring --keyring "$TAILS_DATA_DIR/tmp_keyring.pgp" --refresh-keys
+
+  # Verify that the key was imported correctly (trust check)
   if gpg --no-default-keyring --keyring "$TAILS_DATA_DIR/tmp_keyring.pgp" --fingerprint 58ACD84F | grep -q "A490 D0F4 D311 A415 3E2B  B7CA DBB8 02B2 58AC D84F"; then
+
     echo -e "\n[+] The imported Tails developer key is valid.\n"
+
   else
     echo -e "\nERROR! The imported key does not seem to be the right one. Something is fishy!"
     exit 1
@@ -93,14 +110,6 @@ verify_tails_image() {
 
   # Set trust for the key manually
   echo -e "5\ny\n" | gpg --no-default-keyring --keyring "$TAILS_DATA_DIR/tmp_keyring.pgp" --command-fd 0 --edit-key "58ACD84F" trust
-
-  # Verify the image signature
-  if gpg --no-default-keyring --keyring "$TAILS_DATA_DIR/tmp_keyring.pgp" --verify "$TAILS_DATA_DIR/tails.img.sig" "$TAILS_DATA_DIR/tails.img" > /dev/null 2>&1; then
-    echo -e "\n[+] The .img seems legit."
-  else
-    echo -e "\nERROR! The image does not seem to be signed by the Tails key. Something is fishy!"
-    exit 1
-  fi
 }
 
 # Function to choose a target disk for the Tails image
